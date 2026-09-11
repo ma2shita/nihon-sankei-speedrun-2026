@@ -1,0 +1,3082 @@
+[
+  {
+    "content": "{\"lat\":38.370669,\"lon\":141.069288,\"bat\":3,\"rs\":0,\"temp\":21.1,\"humi\":88.4,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071389169
+  },
+  {
+    "content": "{\"lat\":38.370672,\"lon\":141.069279,\"bat\":3,\"rs\":3,\"temp\":20.7,\"humi\":92.2,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071454217
+  },
+  {
+    "content": "{\"lat\":38.370676,\"lon\":141.069275,\"bat\":3,\"rs\":0,\"temp\":21,\"humi\":92.3,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071519342
+  },
+  {
+    "content": "{\"lat\":38.370674,\"lon\":141.069276,\"bat\":3,\"rs\":0,\"temp\":21,\"humi\":93.3,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071574376
+  },
+  {
+    "content": "{\"lat\":38.370676,\"lon\":141.06928,\"bat\":3,\"rs\":3,\"temp\":20.5,\"humi\":92.4,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071634455
+  },
+  {
+    "content": "{\"lat\":38.370677,\"lon\":141.069292,\"bat\":3,\"rs\":0,\"temp\":20.8,\"humi\":92.4,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071694610
+  },
+  {
+    "content": "{\"lat\":38.370672,\"lon\":141.069292,\"bat\":3,\"rs\":0,\"temp\":20.7,\"humi\":92.8,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071754698
+  },
+  {
+    "content": "{\"lat\":38.37067,\"lon\":141.069293,\"bat\":3,\"rs\":0,\"temp\":20,\"humi\":94.1,\"x\":-64,\"y\":0,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071819889
+  },
+  {
+    "content": "{\"lat\":38.370664,\"lon\":141.069292,\"bat\":3,\"rs\":2,\"temp\":20.7,\"humi\":93.1,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071875089
+  },
+  {
+    "content": "{\"lat\":38.370668,\"lon\":141.069293,\"bat\":3,\"rs\":1,\"temp\":20.3,\"humi\":95.6,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071935090
+  },
+  {
+    "content": "{\"lat\":38.370669,\"lon\":141.06929,\"bat\":3,\"rs\":2,\"temp\":20.1,\"humi\":96.1,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789071995257
+  },
+  {
+    "content": "{\"lat\":38.370667,\"lon\":141.069296,\"bat\":3,\"rs\":1,\"temp\":20.2,\"humi\":93.1,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072055343
+  },
+  {
+    "content": "{\"lat\":38.370662,\"lon\":141.0693,\"bat\":3,\"rs\":1,\"temp\":20.2,\"humi\":95.2,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072120536
+  },
+  {
+    "content": "{\"lat\":38.37066,\"lon\":141.069298,\"bat\":3,\"rs\":1,\"temp\":20,\"humi\":91.8,\"x\":0,\"y\":0,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072175654
+  },
+  {
+    "content": "{\"lat\":38.37066,\"lon\":141.069302,\"bat\":3,\"rs\":1,\"temp\":20.2,\"humi\":92.1,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072235816
+  },
+  {
+    "content": "{\"lat\":38.370658,\"lon\":141.0693,\"bat\":3,\"rs\":1,\"temp\":19,\"humi\":96.2,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072296943
+  },
+  {
+    "content": "{\"lat\":38.370654,\"lon\":141.069299,\"bat\":3,\"rs\":2,\"temp\":19.9,\"humi\":92.4,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072357177
+  },
+  {
+    "content": "{\"lat\":38.370655,\"lon\":141.069297,\"bat\":3,\"rs\":1,\"temp\":19.8,\"humi\":92.3,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072421273
+  },
+  {
+    "content": "{\"lat\":38.370654,\"lon\":141.0693,\"bat\":3,\"rs\":2,\"temp\":19.8,\"humi\":93.7,\"x\":-64,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072476380
+  },
+  {
+    "content": "{\"lat\":38.370653,\"lon\":141.069298,\"bat\":3,\"rs\":2,\"temp\":19.3,\"humi\":93,\"x\":-64,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072536547
+  },
+  {
+    "content": "{\"lat\":38.37065,\"lon\":141.069299,\"bat\":3,\"rs\":2,\"temp\":19.8,\"humi\":97.6,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072596614
+  },
+  {
+    "content": "{\"lat\":38.370651,\"lon\":141.0693,\"bat\":3,\"rs\":2,\"temp\":20.1,\"humi\":95.1,\"x\":0,\"y\":0,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072656694
+  },
+  {
+    "content": "{\"lat\":38.370651,\"lon\":141.069299,\"bat\":3,\"rs\":1,\"temp\":19.6,\"humi\":92.8,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072721814
+  },
+  {
+    "content": "{\"lat\":38.370651,\"lon\":141.069297,\"bat\":3,\"rs\":0,\"temp\":19.8,\"humi\":95.2,\"x\":0,\"y\":0,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072776935
+  },
+  {
+    "content": "{\"lat\":38.370648,\"lon\":141.069297,\"bat\":3,\"rs\":0,\"temp\":19.6,\"humi\":96.1,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072837177
+  },
+  {
+    "content": "{\"lat\":38.370682,\"lon\":141.069213,\"bat\":3,\"rs\":1,\"temp\":20,\"humi\":100,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072897256
+  },
+  {
+    "content": "{\"lat\":38.370645,\"lon\":141.069214,\"bat\":3,\"rs\":0,\"temp\":19.9,\"humi\":96.4,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789072957416
+  },
+  {
+    "content": "{\"lat\":38.370615,\"lon\":141.069235,\"bat\":3,\"rs\":0,\"temp\":20,\"humi\":97.4,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073017446
+  },
+  {
+    "content": "{\"lat\":38.370612,\"lon\":141.069264,\"bat\":3,\"rs\":1,\"temp\":19.8,\"humi\":98.2,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073077647
+  },
+  {
+    "content": "{\"lat\":38.370612,\"lon\":141.06928,\"bat\":3,\"rs\":1,\"temp\":19.8,\"humi\":97.7,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073137814
+  },
+  {
+    "content": "{\"lat\":38.370604,\"lon\":141.069265,\"bat\":3,\"rs\":2,\"temp\":20,\"humi\":99.3,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073197902
+  },
+  {
+    "content": "{\"lat\":38.370611,\"lon\":141.06927,\"bat\":3,\"rs\":0,\"temp\":19.9,\"humi\":98.7,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073258145
+  },
+  {
+    "content": "{\"lat\":38.37061,\"lon\":141.069278,\"bat\":3,\"rs\":1,\"temp\":19.8,\"humi\":99.4,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073338213
+  },
+  {
+    "content": "{\"lat\":38.370613,\"lon\":141.069287,\"bat\":3,\"rs\":1,\"temp\":20,\"humi\":100,\"x\":0,\"y\":0,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073377262
+  },
+  {
+    "content": "{\"lat\":38.370616,\"lon\":141.069286,\"bat\":3,\"rs\":0,\"temp\":19.9,\"humi\":98.1,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073438449
+  },
+  {
+    "content": "{\"lat\":38.370621,\"lon\":141.069301,\"bat\":3,\"rs\":2,\"temp\":19.8,\"humi\":100,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073498700
+  },
+  {
+    "content": "{\"lat\":38.370631,\"lon\":141.069309,\"bat\":3,\"rs\":3,\"temp\":20,\"humi\":100,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073558855
+  },
+  {
+    "content": "{\"lat\":38.370631,\"lon\":141.069307,\"bat\":3,\"rs\":1,\"temp\":20.1,\"humi\":100,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073623899
+  },
+  {
+    "content": "{\"lat\":38.370631,\"lon\":141.069309,\"bat\":3,\"rs\":0,\"temp\":19.8,\"humi\":100,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073679089
+  },
+  {
+    "content": "{\"lat\":38.370631,\"lon\":141.069307,\"bat\":3,\"rs\":2,\"temp\":19.8,\"humi\":96.3,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073739171
+  },
+  {
+    "content": "{\"lat\":38.370629,\"lon\":141.069313,\"bat\":3,\"rs\":2,\"temp\":20.1,\"humi\":97.8,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073799337
+  },
+  {
+    "content": "{\"lat\":38.370631,\"lon\":141.069314,\"bat\":3,\"rs\":0,\"temp\":19.8,\"humi\":100,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073859496
+  },
+  {
+    "content": "{\"lat\":38.370634,\"lon\":141.069314,\"bat\":3,\"rs\":0,\"temp\":19.8,\"humi\":95.5,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073924541
+  },
+  {
+    "content": "{\"lat\":38.370634,\"lon\":141.069317,\"bat\":3,\"rs\":2,\"temp\":19.9,\"humi\":90.3,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789073979582
+  },
+  {
+    "content": "{\"lat\":38.370637,\"lon\":141.069321,\"bat\":3,\"rs\":1,\"temp\":20.2,\"humi\":94.1,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074039828
+  },
+  {
+    "content": "{\"lat\":38.370639,\"lon\":141.069323,\"bat\":3,\"rs\":4,\"temp\":19,\"humi\":97.6,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074099897
+  },
+  {
+    "content": "{\"lat\":38.37064,\"lon\":141.069321,\"bat\":3,\"rs\":0,\"temp\":20.4,\"humi\":96.8,\"x\":-320,\"y\":-768,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074160068
+  },
+  {
+    "content": "{\"lat\":38.370739,\"lon\":141.069056,\"bat\":3,\"rs\":0,\"temp\":21.2,\"humi\":94.4,\"x\":-128,\"y\":-960,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074320300
+  },
+  {
+    "content": "{\"lat\":38.370732,\"lon\":141.069172,\"bat\":3,\"rs\":0,\"temp\":20,\"humi\":94.7,\"x\":128,\"y\":-1088,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074342055
+  },
+  {
+    "content": "{\"lat\":38.371167,\"lon\":141.069576,\"bat\":3,\"rs\":0,\"temp\":21.1,\"humi\":96.2,\"x\":-256,\"y\":-1472,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074403431
+  },
+  {
+    "content": "{\"lat\":38.371411,\"lon\":141.070378,\"bat\":3,\"rs\":3,\"temp\":21.1,\"humi\":92.4,\"x\":0,\"y\":-512,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074463508
+  },
+  {
+    "content": "{\"lat\":38.371698,\"lon\":141.069956,\"bat\":3,\"rs\":0,\"temp\":21.3,\"humi\":93,\"x\":-128,\"y\":-1024,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074522960
+  },
+  {
+    "content": "{\"lat\":38.372011,\"lon\":141.068877,\"bat\":3,\"rs\":2,\"temp\":20.9,\"humi\":87.7,\"x\":128,\"y\":-1024,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074613906
+  },
+  {
+    "content": "{\"lat\":38.372265,\"lon\":141.068285,\"bat\":3,\"rs\":0,\"temp\":21.2,\"humi\":91.5,\"x\":0,\"y\":-1152,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074643762
+  },
+  {
+    "content": "{\"lat\":38.372756,\"lon\":141.067724,\"bat\":3,\"rs\":3,\"temp\":21.3,\"humi\":83.6,\"x\":-64,\"y\":-1024,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074704047
+  },
+  {
+    "content": "{\"lat\":38.373499,\"lon\":141.067345,\"bat\":3,\"rs\":4,\"temp\":21.2,\"humi\":85.6,\"x\":0,\"y\":-640,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074764383
+  },
+  {
+    "content": "{\"lat\":38.374084,\"lon\":141.067669,\"bat\":3,\"rs\":4,\"temp\":20.8,\"humi\":85,\"x\":256,\"y\":-640,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074824369
+  },
+  {
+    "content": "{\"lat\":38.374932,\"lon\":141.068121,\"bat\":3,\"rs\":4,\"temp\":21.2,\"humi\":85.8,\"x\":0,\"y\":-512,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074889488
+  },
+  {
+    "content": "{\"lat\":38.375362,\"lon\":141.067992,\"bat\":3,\"rs\":4,\"temp\":21.2,\"humi\":87.8,\"x\":64,\"y\":-704,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789074944928
+  },
+  {
+    "content": "{\"lat\":38.376135,\"lon\":141.068408,\"bat\":3,\"rs\":4,\"temp\":20.7,\"humi\":86.2,\"x\":0,\"y\":-448,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075004846
+  },
+  {
+    "content": "{\"lat\":38.376919,\"lon\":141.068331,\"bat\":3,\"rs\":4,\"temp\":20,\"humi\":85.7,\"x\":64,\"y\":-640,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075069969
+  },
+  {
+    "content": "{\"lat\":38.377697,\"lon\":141.068361,\"bat\":3,\"rs\":4,\"temp\":20.8,\"humi\":85.3,\"x\":0,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075125007
+  },
+  {
+    "content": "{\"lat\":38.378388,\"lon\":141.068205,\"bat\":3,\"rs\":4,\"temp\":20.6,\"humi\":85.4,\"x\":-192,\"y\":-832,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075190137
+  },
+  {
+    "content": "{\"lat\":38.379125,\"lon\":141.068097,\"bat\":3,\"rs\":2,\"temp\":20.7,\"humi\":81.3,\"x\":0,\"y\":-576,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075245408
+  },
+  {
+    "content": "{\"lat\":38.379376,\"lon\":141.06819,\"bat\":3,\"rs\":4,\"temp\":20.6,\"humi\":88,\"x\":-64,\"y\":-768,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075304369
+  },
+  {
+    "content": "{\"lat\":38.379138,\"lon\":141.067811,\"bat\":3,\"rs\":4,\"temp\":20.7,\"humi\":85.1,\"x\":-128,\"y\":-832,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075364528
+  },
+  {
+    "content": "{\"lat\":38.379532,\"lon\":141.066916,\"bat\":3,\"rs\":0,\"temp\":20.6,\"humi\":89.1,\"x\":-384,\"y\":-960,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075425728
+  },
+  {
+    "content": "{\"lat\":38.379821,\"lon\":141.06614,\"bat\":3,\"rs\":4,\"temp\":20.6,\"humi\":86.3,\"x\":0,\"y\":-960,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075490861
+  },
+  {
+    "content": "{\"lat\":38.379804,\"lon\":141.066213,\"bat\":3,\"rs\":4,\"temp\":20.7,\"humi\":85,\"x\":0,\"y\":-896,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075560937
+  },
+  {
+    "content": "{\"lat\":38.379829,\"lon\":141.066097,\"bat\":3,\"rs\":4,\"temp\":20.9,\"humi\":88.7,\"x\":64,\"y\":-896,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075616133
+  },
+  {
+    "content": "{\"lat\":38.379839,\"lon\":141.066096,\"bat\":3,\"rs\":4,\"temp\":20.9,\"humi\":84.1,\"x\":-64,\"y\":-960,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075676297
+  },
+  {
+    "content": "{\"lat\":38.379859,\"lon\":141.066088,\"bat\":3,\"rs\":4,\"temp\":20.9,\"humi\":91.2,\"x\":-256,\"y\":-640,\"z\":704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075726382
+  },
+  {
+    "content": "{\"lat\":38.379867,\"lon\":141.066075,\"bat\":3,\"rs\":4,\"temp\":20.7,\"humi\":87.2,\"x\":-448,\"y\":-704,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075791414
+  },
+  {
+    "content": "{\"lat\":38.379889,\"lon\":141.066036,\"bat\":3,\"rs\":4,\"temp\":21.1,\"humi\":87.1,\"x\":-448,\"y\":-704,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075846609
+  },
+  {
+    "content": "{\"lat\":38.379906,\"lon\":141.066046,\"bat\":3,\"rs\":4,\"temp\":20.6,\"humi\":87,\"x\":-448,\"y\":-704,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075920687
+  },
+  {
+    "content": "{\"lat\":38.379915,\"lon\":141.066056,\"bat\":3,\"rs\":4,\"temp\":20.5,\"humi\":91.1,\"x\":-448,\"y\":-704,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789075965819
+  },
+  {
+    "content": "{\"lat\":38.37992,\"lon\":141.066045,\"bat\":3,\"rs\":4,\"temp\":20.4,\"humi\":88.1,\"x\":-384,\"y\":-704,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076025969
+  },
+  {
+    "content": "{\"lat\":38.379923,\"lon\":141.066023,\"bat\":3,\"rs\":4,\"temp\":20.8,\"humi\":83.7,\"x\":-384,\"y\":-704,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076091167
+  },
+  {
+    "content": "{\"lat\":38.379915,\"lon\":141.066012,\"bat\":3,\"rs\":4,\"temp\":20.7,\"humi\":87,\"x\":-384,\"y\":-448,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076146227
+  },
+  {
+    "content": "{\"lat\":38.379908,\"lon\":141.066001,\"bat\":3,\"rs\":4,\"temp\":20.9,\"humi\":86.7,\"x\":-448,\"y\":-448,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076206222
+  },
+  {
+    "content": "{\"lat\":38.3799,\"lon\":141.065985,\"bat\":3,\"rs\":4,\"temp\":20.9,\"humi\":85.9,\"x\":-384,\"y\":-448,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076266295
+  },
+  {
+    "content": "{\"lat\":38.379883,\"lon\":141.06594,\"bat\":3,\"rs\":4,\"temp\":20.4,\"humi\":86.3,\"x\":-320,\"y\":-704,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076326455
+  },
+  {
+    "content": "{\"lat\":38.379079,\"lon\":141.065143,\"bat\":3,\"rs\":4,\"temp\":20.5,\"humi\":90.5,\"x\":-256,\"y\":-576,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076391650
+  },
+  {
+    "content": "{\"lat\":38.367379,\"lon\":141.058335,\"bat\":3,\"rs\":3,\"temp\":20.6,\"humi\":84.5,\"x\":-256,\"y\":-512,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076456722
+  },
+  {
+    "content": "{\"lat\":38.352319,\"lon\":141.042549,\"bat\":3,\"rs\":0,\"temp\":21.2,\"humi\":88.8,\"x\":-320,\"y\":-512,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076546858
+  },
+  {
+    "content": "{\"lat\":38.346789,\"lon\":141.038301,\"bat\":3,\"rs\":0,\"temp\":21.1,\"humi\":84.7,\"x\":-320,\"y\":-512,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076573896
+  },
+  {
+    "content": "{\"lat\":38.334804,\"lon\":141.031446,\"bat\":3,\"rs\":0,\"temp\":21.2,\"humi\":89.5,\"x\":-256,\"y\":-512,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076634133
+  },
+  {
+    "content": "{\"lat\":38.316838,\"lon\":141.009409,\"bat\":3,\"rs\":0,\"temp\":22.1,\"humi\":91.7,\"x\":-256,\"y\":-576,\"z\":896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076751427
+  },
+  {
+    "content": "{\"lat\":38.311416,\"lon\":141.009994,\"bat\":3,\"rs\":2,\"temp\":22.1,\"humi\":90.3,\"x\":-384,\"y\":-512,\"z\":704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076778166
+  },
+  {
+    "content": "{\"lat\":38.309629,\"lon\":141.009543,\"bat\":3,\"rs\":0,\"temp\":21.4,\"humi\":93,\"x\":-512,\"y\":-576,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076838775
+  },
+  {
+    "content": "{\"lat\":38.305293,\"lon\":141.00752,\"bat\":3,\"rs\":4,\"temp\":22.3,\"humi\":93.4,\"x\":-192,\"y\":-704,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076893814
+  },
+  {
+    "content": "{\"lat\":38.301158,\"lon\":140.995366,\"bat\":3,\"rs\":0,\"temp\":22,\"humi\":93.3,\"x\":-320,\"y\":-640,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789076961014
+  },
+  {
+    "content": "{\"lat\":38.300442,\"lon\":140.991052,\"bat\":3,\"rs\":0,\"temp\":22.4,\"humi\":92.4,\"x\":-320,\"y\":-768,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077047968
+  },
+  {
+    "content": "{\"lat\":38.299904,\"lon\":140.983568,\"bat\":3,\"rs\":3,\"temp\":22.3,\"humi\":93.5,\"x\":-384,\"y\":-576,\"z\":704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077073326
+  },
+  {
+    "content": "{\"lat\":38.298551,\"lon\":140.979442,\"bat\":3,\"rs\":0,\"temp\":22.7,\"humi\":95.7,\"x\":-384,\"y\":-640,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077143180
+  },
+  {
+    "content": "{\"lat\":38.298808,\"lon\":140.969682,\"bat\":3,\"rs\":4,\"temp\":22.5,\"humi\":96.1,\"x\":-384,\"y\":-704,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077203412
+  },
+  {
+    "content": "{\"lat\":38.301586,\"lon\":140.959453,\"bat\":3,\"rs\":4,\"temp\":22.7,\"humi\":96.9,\"x\":-320,\"y\":-704,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077258452
+  },
+  {
+    "content": "{\"lat\":38.300523,\"lon\":140.954978,\"bat\":3,\"rs\":0,\"temp\":22.7,\"humi\":97,\"x\":-256,\"y\":-640,\"z\":704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077328531
+  },
+  {
+    "content": "{\"lat\":38.299221,\"lon\":140.949782,\"bat\":3,\"rs\":4,\"temp\":23.1,\"humi\":97.5,\"x\":-128,\"y\":-768,\"z\":704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077379089
+  },
+  {
+    "content": "{\"lat\":38.289655,\"lon\":140.938158,\"bat\":3,\"rs\":1,\"temp\":23.6,\"humi\":98.2,\"x\":-128,\"y\":-640,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077439908
+  },
+  {
+    "content": "{\"lat\":38.278429,\"lon\":140.923583,\"bat\":3,\"rs\":1,\"temp\":23.6,\"humi\":98.7,\"x\":-256,\"y\":-512,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077509911
+  },
+  {
+    "content": "{\"lat\":38.276069,\"lon\":140.919716,\"bat\":3,\"rs\":0,\"temp\":23.8,\"humi\":100,\"x\":-64,\"y\":-640,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077605209
+  },
+  {
+    "content": "{\"lat\":38.272394,\"lon\":140.913311,\"bat\":3,\"rs\":2,\"temp\":24.1,\"humi\":98.6,\"x\":-128,\"y\":-640,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077647342
+  },
+  {
+    "content": "{\"lat\":38.269892,\"lon\":140.900063,\"bat\":3,\"rs\":3,\"temp\":24.1,\"humi\":98.3,\"x\":-64,\"y\":-640,\"z\":768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789077703817
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":24.6,\"humi\":89.8,\"x\":-384,\"y\":-704,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078108689
+  },
+  {
+    "content": "{\"lat\":38.257675,\"lon\":140.882079,\"bat\":3,\"rs\":0,\"temp\":24.6,\"humi\":91.9,\"x\":-64,\"y\":-960,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078135416
+  },
+  {
+    "content": "{\"lat\":38.252653,\"lon\":140.885479,\"bat\":3,\"rs\":0,\"temp\":24.8,\"humi\":94.5,\"x\":-64,\"y\":-960,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078200080
+  },
+  {
+    "content": "{\"lat\":38.242085,\"lon\":140.893854,\"bat\":3,\"rs\":0,\"temp\":24.8,\"humi\":91.1,\"x\":-192,\"y\":-896,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078260076
+  },
+  {
+    "content": "{\"lat\":38.233027,\"lon\":140.888285,\"bat\":3,\"rs\":0,\"temp\":25.1,\"humi\":93.5,\"x\":-128,\"y\":-960,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078323417
+  },
+  {
+    "content": "{\"lat\":38.226781,\"lon\":140.885374,\"bat\":3,\"rs\":4,\"temp\":24.6,\"humi\":89.4,\"x\":-192,\"y\":-832,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078375323
+  },
+  {
+    "content": "{\"lat\":38.225308,\"lon\":140.88508,\"bat\":3,\"rs\":4,\"temp\":24.4,\"humi\":90.1,\"x\":-192,\"y\":-832,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078435340
+  },
+  {
+    "content": "{\"lat\":38.217716,\"lon\":140.883414,\"bat\":3,\"rs\":0,\"temp\":24.6,\"humi\":88.5,\"x\":-320,\"y\":-832,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078496535
+  },
+  {
+    "content": "{\"lat\":38.21684,\"lon\":140.883238,\"bat\":3,\"rs\":4,\"temp\":24.6,\"humi\":85,\"x\":-256,\"y\":-832,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078554855
+  },
+  {
+    "content": "{\"lat\":38.205658,\"lon\":140.883034,\"bat\":3,\"rs\":0,\"temp\":24.5,\"humi\":92.4,\"x\":-320,\"y\":-832,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078620985
+  },
+  {
+    "content": "{\"lat\":38.197337,\"lon\":140.883248,\"bat\":3,\"rs\":0,\"temp\":24.7,\"humi\":92.6,\"x\":-320,\"y\":-768,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078685401
+  },
+  {
+    "content": "{\"lat\":38.195626,\"lon\":140.88344,\"bat\":3,\"rs\":4,\"temp\":24.8,\"humi\":85.7,\"x\":-320,\"y\":-768,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078746962
+  },
+  {
+    "content": "{\"lat\":38.195626,\"lon\":140.88344,\"bat\":3,\"rs\":4,\"temp\":24.8,\"humi\":85.7,\"x\":-320,\"y\":-768,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078766223
+  },
+  {
+    "content": "{\"lat\":38.17917,\"lon\":140.882616,\"bat\":3,\"rs\":4,\"temp\":24,\"humi\":87.4,\"x\":-448,\"y\":-768,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078830151
+  },
+  {
+    "content": "{\"lat\":38.174726,\"lon\":140.882843,\"bat\":3,\"rs\":4,\"temp\":24.8,\"humi\":89.1,\"x\":-448,\"y\":-768,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078879334
+  },
+  {
+    "content": "{\"lat\":38.172929,\"lon\":140.882988,\"bat\":3,\"rs\":0,\"temp\":25.2,\"humi\":86.8,\"x\":-512,\"y\":-704,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789078944707
+  },
+  {
+    "content": "{\"lat\":38.163945,\"lon\":140.901565,\"bat\":3,\"rs\":0,\"temp\":24.8,\"humi\":82.6,\"x\":-448,\"y\":-768,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079182146
+  },
+  {
+    "content": "{\"lat\":38.160135,\"lon\":140.915754,\"bat\":3,\"rs\":0,\"temp\":25.3,\"humi\":86.6,\"x\":-448,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079235982
+  },
+  {
+    "content": "{\"lat\":38.159918,\"lon\":140.917854,\"bat\":3,\"rs\":0,\"temp\":25.1,\"humi\":89.2,\"x\":-256,\"y\":-832,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079296215
+  },
+  {
+    "content": "{\"lat\":38.154435,\"lon\":140.927199,\"bat\":3,\"rs\":0,\"temp\":25.1,\"humi\":85.6,\"x\":-256,\"y\":-832,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079362064
+  },
+  {
+    "content": "{\"lat\":38.139129,\"lon\":140.933265,\"bat\":3,\"rs\":0,\"temp\":25.3,\"humi\":84,\"x\":-192,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079451356
+  },
+  {
+    "content": "{\"lat\":38.137617,\"lon\":140.931575,\"bat\":3,\"rs\":0,\"temp\":25.1,\"humi\":81.2,\"x\":768,\"y\":-128,\"z\":-512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079492782
+  },
+  {
+    "content": "{\"lat\":38.137217,\"lon\":140.929481,\"bat\":3,\"rs\":0,\"temp\":25.2,\"humi\":84.8,\"x\":960,\"y\":-320,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079536556
+  },
+  {
+    "content": "{\"lat\":38.137166,\"lon\":140.929197,\"bat\":3,\"rs\":0,\"temp\":24.7,\"humi\":84,\"x\":448,\"y\":-64,\"z\":-512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079596694
+  },
+  {
+    "content": "{\"lat\":38.137346,\"lon\":140.92921,\"bat\":3,\"rs\":0,\"temp\":24.8,\"humi\":83,\"x\":832,\"y\":-192,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079662151
+  },
+  {
+    "content": "{\"lat\":38.137474,\"lon\":140.929326,\"bat\":3,\"rs\":0,\"temp\":25.2,\"humi\":85.9,\"x\":512,\"y\":-128,\"z\":-576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079721896
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":25.4,\"humi\":85,\"x\":-384,\"y\":-1024,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789079927184
+  },
+  {
+    "content": "{\"lat\":38.138437,\"lon\":140.929861,\"bat\":3,\"rs\":0,\"temp\":25.3,\"humi\":80.6,\"x\":-384,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080016777
+  },
+  {
+    "content": "{\"lat\":38.138749,\"lon\":140.929702,\"bat\":3,\"rs\":0,\"temp\":24.9,\"humi\":81.8,\"x\":64,\"y\":-896,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080064368
+  },
+  {
+    "content": "{\"lat\":38.138604,\"lon\":140.929272,\"bat\":3,\"rs\":0,\"temp\":25.7,\"humi\":84,\"x\":192,\"y\":-960,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080109495
+  },
+  {
+    "content": "{\"lat\":38.138549,\"lon\":140.929657,\"bat\":3,\"rs\":2,\"temp\":25.6,\"humi\":81.9,\"x\":64,\"y\":-896,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080164530
+  },
+  {
+    "content": "{\"lat\":38.138476,\"lon\":140.929684,\"bat\":3,\"rs\":0,\"temp\":25.7,\"humi\":81.1,\"x\":192,\"y\":-832,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080234704
+  },
+  {
+    "content": "{\"lat\":38.138331,\"lon\":140.929716,\"bat\":3,\"rs\":3,\"temp\":25.3,\"humi\":81.3,\"x\":-256,\"y\":-960,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080283719
+  },
+  {
+    "content": "{\"lat\":38.138319,\"lon\":140.929656,\"bat\":3,\"rs\":0,\"temp\":25.5,\"humi\":80.3,\"x\":-320,\"y\":-1024,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080344069
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":25.5,\"humi\":80,\"x\":-384,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080544777
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":25,\"humi\":78.6,\"x\":-384,\"y\":-832,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080712741
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":25.8,\"humi\":79.3,\"x\":-384,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789080888843
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":26,\"humi\":79.6,\"x\":-384,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081056703
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":26.5,\"humi\":78.9,\"x\":-384,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081227562
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":26,\"humi\":77.8,\"x\":-384,\"y\":-832,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081394812
+  },
+  {
+    "content": "{\"lat\":38.138847,\"lon\":140.928041,\"bat\":3,\"rs\":0,\"temp\":26.5,\"humi\":78.1,\"x\":-1472,\"y\":-960,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081551912
+  },
+  {
+    "content": "{\"lat\":38.138312,\"lon\":140.928101,\"bat\":3,\"rs\":0,\"temp\":26.4,\"humi\":76.1,\"x\":-448,\"y\":-832,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081584161
+  },
+  {
+    "content": "{\"lat\":38.138353,\"lon\":140.928351,\"bat\":3,\"rs\":0,\"temp\":26,\"humi\":73.8,\"x\":-512,\"y\":-832,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081634051
+  },
+  {
+    "content": "{\"lat\":38.138332,\"lon\":140.928315,\"bat\":3,\"rs\":0,\"temp\":25.9,\"humi\":74.1,\"x\":-512,\"y\":-832,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081694237
+  },
+  {
+    "content": "{\"lat\":38.138309,\"lon\":140.9283,\"bat\":3,\"rs\":0,\"temp\":26.1,\"humi\":74,\"x\":-640,\"y\":-704,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081754464
+  },
+  {
+    "content": "{\"lat\":38.138419,\"lon\":140.925896,\"bat\":3,\"rs\":0,\"temp\":26,\"humi\":77.2,\"x\":192,\"y\":-832,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081814793
+  },
+  {
+    "content": "{\"lat\":38.138412,\"lon\":140.925884,\"bat\":3,\"rs\":0,\"temp\":25,\"humi\":76.3,\"x\":-448,\"y\":-320,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081879696
+  },
+  {
+    "content": "{\"lat\":38.138422,\"lon\":140.925854,\"bat\":3,\"rs\":0,\"temp\":25.9,\"humi\":73.9,\"x\":0,\"y\":-960,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081934784
+  },
+  {
+    "content": "{\"lat\":38.138437,\"lon\":140.925847,\"bat\":3,\"rs\":0,\"temp\":25.7,\"humi\":69.8,\"x\":0,\"y\":128,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789081994942
+  },
+  {
+    "content": "{\"lat\":38.138454,\"lon\":140.925821,\"bat\":3,\"rs\":0,\"temp\":25.5,\"humi\":69.6,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789082055104
+  },
+  {
+    "content": "{\"lat\":38.138496,\"lon\":140.925798,\"bat\":3,\"rs\":0,\"temp\":25.6,\"humi\":66,\"x\":-64,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789082114067
+  },
+  {
+    "content": "{\"lat\":38.138589,\"lon\":140.925802,\"bat\":3,\"rs\":0,\"temp\":25.7,\"humi\":71.4,\"x\":-64,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789082179189
+  },
+  {
+    "content": "{\"lat\":38.138527,\"lon\":140.925722,\"bat\":3,\"rs\":0,\"temp\":25.6,\"humi\":63.4,\"x\":0,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789082244627
+  },
+  {
+    "content": "{\"lat\":34.43764,\"lon\":132.918253,\"bat\":3,\"rs\":0,\"temp\":23.4,\"humi\":63.2,\"x\":-64,\"y\":-192,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088047711
+  },
+  {
+    "content": "{\"lat\":34.43908,\"lon\":132.920792,\"bat\":3,\"rs\":4,\"temp\":24.2,\"humi\":56.7,\"x\":-768,\"y\":896,\"z\":-1344,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088145495
+  },
+  {
+    "content": "{\"lat\":34.439181,\"lon\":132.92072,\"bat\":3,\"rs\":3,\"temp\":24.4,\"humi\":55.8,\"x\":128,\"y\":896,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088210501
+  },
+  {
+    "content": "{\"lat\":34.439153,\"lon\":132.920568,\"bat\":3,\"rs\":4,\"temp\":24.4,\"humi\":55.8,\"x\":192,\"y\":960,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088270479
+  },
+  {
+    "content": "{\"lat\":34.439188,\"lon\":132.920173,\"bat\":3,\"rs\":4,\"temp\":24.4,\"humi\":55.8,\"x\":128,\"y\":960,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088330553
+  },
+  {
+    "content": "{\"lat\":34.439265,\"lon\":132.920778,\"bat\":3,\"rs\":4,\"temp\":24.2,\"humi\":55.1,\"x\":0,\"y\":1024,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088390557
+  },
+  {
+    "content": "{\"lat\":34.43949,\"lon\":132.920545,\"bat\":3,\"rs\":0,\"temp\":24.3,\"humi\":60.2,\"x\":448,\"y\":1152,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088445646
+  },
+  {
+    "content": "{\"lat\":34.440407,\"lon\":132.919697,\"bat\":3,\"rs\":4,\"temp\":24.9,\"humi\":61.8,\"x\":0,\"y\":960,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088620709
+  },
+  {
+    "content": "{\"lat\":34.439841,\"lon\":132.920008,\"bat\":3,\"rs\":4,\"temp\":25.2,\"humi\":59.8,\"x\":320,\"y\":0,\"z\":960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088667831
+  },
+  {
+    "content": "{\"lat\":34.440967,\"lon\":132.919179,\"bat\":3,\"rs\":4,\"temp\":25.2,\"humi\":65.7,\"x\":320,\"y\":896,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088722882
+  },
+  {
+    "content": "{\"lat\":34.440496,\"lon\":132.919231,\"bat\":3,\"rs\":4,\"temp\":25.1,\"humi\":67,\"x\":256,\"y\":896,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088787991
+  },
+  {
+    "content": "{\"lat\":34.441033,\"lon\":132.918847,\"bat\":3,\"rs\":4,\"temp\":25.2,\"humi\":68.2,\"x\":256,\"y\":832,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088858154
+  },
+  {
+    "content": "{\"lat\":34.440895,\"lon\":132.918893,\"bat\":3,\"rs\":4,\"temp\":25.2,\"humi\":70.4,\"x\":128,\"y\":960,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789088998298
+  },
+  {
+    "content": "{\"lat\":34.440536,\"lon\":132.919738,\"bat\":3,\"rs\":4,\"temp\":25.8,\"humi\":71.9,\"x\":256,\"y\":896,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089030325
+  },
+  {
+    "content": "{\"lat\":34.44051,\"lon\":132.918938,\"bat\":3,\"rs\":2,\"temp\":25.3,\"humi\":71.2,\"x\":-256,\"y\":1024,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089085517
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":25.8,\"humi\":73,\"x\":256,\"y\":832,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089285657
+  },
+  {
+    "content": "{\"lat\":34.440367,\"lon\":132.917097,\"bat\":3,\"rs\":4,\"temp\":25.8,\"humi\":73.1,\"x\":192,\"y\":832,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089327679
+  },
+  {
+    "content": "{\"lat\":34.441028,\"lon\":132.913516,\"bat\":3,\"rs\":4,\"temp\":26,\"humi\":72.7,\"x\":256,\"y\":896,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089382965
+  },
+  {
+    "content": "{\"lat\":34.439627,\"lon\":132.904284,\"bat\":3,\"rs\":0,\"temp\":25.8,\"humi\":76.8,\"x\":64,\"y\":960,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089433230
+  },
+  {
+    "content": "{\"lat\":34.438704,\"lon\":132.893935,\"bat\":3,\"rs\":4,\"temp\":26.1,\"humi\":72.1,\"x\":192,\"y\":896,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089494206
+  },
+  {
+    "content": "{\"lat\":34.434414,\"lon\":132.885668,\"bat\":3,\"rs\":0,\"temp\":25.9,\"humi\":71.6,\"x\":192,\"y\":896,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089559364
+  },
+  {
+    "content": "{\"lat\":34.432078,\"lon\":132.877642,\"bat\":3,\"rs\":1,\"temp\":26,\"humi\":72.9,\"x\":128,\"y\":896,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089614461
+  },
+  {
+    "content": "{\"lat\":34.429555,\"lon\":132.871562,\"bat\":3,\"rs\":1,\"temp\":25.8,\"humi\":68.9,\"x\":256,\"y\":832,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089674541
+  },
+  {
+    "content": "{\"lat\":34.429271,\"lon\":132.86008,\"bat\":3,\"rs\":4,\"temp\":26.1,\"humi\":73.5,\"x\":256,\"y\":896,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089744705
+  },
+  {
+    "content": "{\"lat\":34.428146,\"lon\":132.848006,\"bat\":3,\"rs\":4,\"temp\":26.1,\"humi\":70,\"x\":192,\"y\":896,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089794803
+  },
+  {
+    "content": "{\"lat\":34.431491,\"lon\":132.833419,\"bat\":3,\"rs\":2,\"temp\":26.1,\"humi\":77.2,\"x\":64,\"y\":896,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089860074
+  },
+  {
+    "content": "{\"lat\":34.430337,\"lon\":132.820866,\"bat\":3,\"rs\":0,\"temp\":26.3,\"humi\":70.5,\"x\":192,\"y\":896,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089915104
+  },
+  {
+    "content": "{\"lat\":34.430919,\"lon\":132.807459,\"bat\":3,\"rs\":2,\"temp\":25.7,\"humi\":77,\"x\":320,\"y\":704,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789089980234
+  },
+  {
+    "content": "{\"lat\":34.433002,\"lon\":132.79277,\"bat\":3,\"rs\":0,\"temp\":26.3,\"humi\":74.6,\"x\":640,\"y\":768,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090041326
+  },
+  {
+    "content": "{\"lat\":34.436858,\"lon\":132.777614,\"bat\":3,\"rs\":0,\"temp\":26.5,\"humi\":74,\"x\":576,\"y\":640,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090105840
+  },
+  {
+    "content": "{\"lat\":34.439664,\"lon\":132.766206,\"bat\":3,\"rs\":4,\"temp\":26.8,\"humi\":72.8,\"x\":448,\"y\":512,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090155597
+  },
+  {
+    "content": "{\"lat\":34.441622,\"lon\":132.75315,\"bat\":3,\"rs\":2,\"temp\":26.7,\"humi\":73.3,\"x\":448,\"y\":448,\"z\":896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090210701
+  },
+  {
+    "content": "{\"lat\":34.452502,\"lon\":132.726595,\"bat\":3,\"rs\":4,\"temp\":27.1,\"humi\":79.3,\"x\":256,\"y\":576,\"z\":704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090394948
+  },
+  {
+    "content": "{\"lat\":34.460541,\"lon\":132.708617,\"bat\":3,\"rs\":0,\"temp\":27.2,\"humi\":76.5,\"x\":320,\"y\":512,\"z\":896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090426867
+  },
+  {
+    "content": "{\"lat\":34.461889,\"lon\":132.695615,\"bat\":3,\"rs\":4,\"temp\":27.6,\"humi\":81.2,\"x\":320,\"y\":512,\"z\":896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090482077
+  },
+  {
+    "content": "{\"lat\":34.468423,\"lon\":132.674742,\"bat\":3,\"rs\":4,\"temp\":27.7,\"humi\":78,\"x\":448,\"y\":448,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090577767
+  },
+  {
+    "content": "{\"lat\":34.467316,\"lon\":132.667308,\"bat\":3,\"rs\":4,\"temp\":27.7,\"humi\":78.1,\"x\":448,\"y\":512,\"z\":960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090613350
+  },
+  {
+    "content": "{\"lat\":34.463657,\"lon\":132.654184,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":78.2,\"x\":448,\"y\":384,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090673417
+  },
+  {
+    "content": "{\"lat\":34.458758,\"lon\":132.639897,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":78.4,\"x\":448,\"y\":384,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090733811
+  },
+  {
+    "content": "{\"lat\":34.456181,\"lon\":132.628147,\"bat\":3,\"rs\":4,\"temp\":28.1,\"humi\":77,\"x\":384,\"y\":448,\"z\":832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789090788640
+  },
+  {
+    "content": "{\"lat\":34.446272,\"lon\":132.540035,\"bat\":3,\"rs\":4,\"temp\":29.3,\"humi\":70.2,\"x\":320,\"y\":0,\"z\":960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091250071
+  },
+  {
+    "content": "{\"lat\":34.433456,\"lon\":132.531984,\"bat\":3,\"rs\":3,\"temp\":29.5,\"humi\":61.3,\"x\":-64,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091360925
+  },
+  {
+    "content": "{\"lat\":34.422634,\"lon\":132.520606,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":58.2,\"x\":-192,\"y\":0,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091461247
+  },
+  {
+    "content": "{\"lat\":34.41497,\"lon\":132.51482,\"bat\":3,\"rs\":0,\"temp\":29.7,\"humi\":60.2,\"x\":0,\"y\":-576,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091522787
+  },
+  {
+    "content": "{\"lat\":34.405423,\"lon\":132.51119,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":62.6,\"x\":0,\"y\":-640,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091592163
+  },
+  {
+    "content": "{\"lat\":34.404856,\"lon\":132.505711,\"bat\":3,\"rs\":0,\"temp\":29.7,\"humi\":66.6,\"x\":0,\"y\":-640,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091641573
+  },
+  {
+    "content": "{\"lat\":34.405469,\"lon\":132.505211,\"bat\":3,\"rs\":0,\"temp\":29.9,\"humi\":63.4,\"x\":-64,\"y\":-576,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091701831
+  },
+  {
+    "content": "{\"lat\":34.404151,\"lon\":132.504598,\"bat\":3,\"rs\":1,\"temp\":29.4,\"humi\":62,\"x\":-64,\"y\":-640,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091756373
+  },
+  {
+    "content": "{\"lat\":34.400408,\"lon\":132.501497,\"bat\":3,\"rs\":4,\"temp\":29.4,\"humi\":61.9,\"x\":0,\"y\":-640,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091826527
+  },
+  {
+    "content": "{\"lat\":34.399352,\"lon\":132.500304,\"bat\":3,\"rs\":0,\"temp\":29.7,\"humi\":63.5,\"x\":64,\"y\":-704,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091886458
+  },
+  {
+    "content": "{\"lat\":34.396506,\"lon\":132.498108,\"bat\":3,\"rs\":4,\"temp\":29.6,\"humi\":63.6,\"x\":128,\"y\":-704,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091956613
+  },
+  {
+    "content": "{\"lat\":34.39531,\"lon\":132.497256,\"bat\":3,\"rs\":3,\"temp\":29.5,\"humi\":63.9,\"x\":256,\"y\":-768,\"z\":-512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789091996705
+  },
+  {
+    "content": "{\"lat\":34.393348,\"lon\":132.495112,\"bat\":3,\"rs\":0,\"temp\":29.4,\"humi\":65.7,\"x\":384,\"y\":-896,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092057263
+  },
+  {
+    "content": "{\"lat\":34.394507,\"lon\":132.49148,\"bat\":3,\"rs\":2,\"temp\":29.3,\"humi\":61.5,\"x\":448,\"y\":-832,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092121028
+  },
+  {
+    "content": "{\"lat\":34.394992,\"lon\":132.488885,\"bat\":3,\"rs\":4,\"temp\":29.3,\"humi\":61.1,\"x\":384,\"y\":-832,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092176143
+  },
+  {
+    "content": "{\"lat\":34.39657,\"lon\":132.484187,\"bat\":3,\"rs\":0,\"temp\":29.4,\"humi\":61,\"x\":448,\"y\":-896,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092239419
+  },
+  {
+    "content": "{\"lat\":34.398233,\"lon\":132.478263,\"bat\":3,\"rs\":0,\"temp\":29.2,\"humi\":58.6,\"x\":384,\"y\":-832,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092296549
+  },
+  {
+    "content": "{\"lat\":34.398591,\"lon\":132.47729,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":58.4,\"x\":320,\"y\":-832,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092361595
+  },
+  {
+    "content": "{\"lat\":34.3988,\"lon\":132.47672,\"bat\":3,\"rs\":0,\"temp\":29.5,\"humi\":61.5,\"x\":192,\"y\":-832,\"z\":-448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092424226
+  },
+  {
+    "content": "{\"lat\":34.398779,\"lon\":132.476688,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":58.8,\"x\":256,\"y\":-960,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092476849
+  },
+  {
+    "content": "{\"lat\":34.398812,\"lon\":132.476678,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":63.3,\"x\":576,\"y\":-1024,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092591987
+  },
+  {
+    "content": "{\"lat\":34.397617,\"lon\":132.474878,\"bat\":3,\"rs\":4,\"temp\":29.6,\"humi\":62.9,\"x\":320,\"y\":-960,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092627984
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":64.8,\"x\":384,\"y\":-768,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092823094
+  },
+  {
+    "content": "{\"lat\":34.398155,\"lon\":132.473479,\"bat\":3,\"rs\":3,\"temp\":29.8,\"humi\":65.1,\"x\":384,\"y\":-896,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789092987821
+  },
+  {
+    "content": "{\"lat\":34.400038,\"lon\":132.470916,\"bat\":3,\"rs\":0,\"temp\":29.7,\"humi\":66,\"x\":320,\"y\":-832,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093014377
+  },
+  {
+    "content": "{\"lat\":34.408218,\"lon\":132.462405,\"bat\":3,\"rs\":1,\"temp\":29.7,\"humi\":66.2,\"x\":0,\"y\":-320,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093105657
+  },
+  {
+    "content": "{\"lat\":34.408393,\"lon\":132.460343,\"bat\":3,\"rs\":4,\"temp\":29.7,\"humi\":66.7,\"x\":0,\"y\":-320,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093157514
+  },
+  {
+    "content": "{\"lat\":34.410704,\"lon\":132.450629,\"bat\":3,\"rs\":1,\"temp\":29,\"humi\":66.7,\"x\":0,\"y\":-320,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093241741
+  },
+  {
+    "content": "{\"lat\":34.408994,\"lon\":132.442042,\"bat\":3,\"rs\":0,\"temp\":30.2,\"humi\":70.4,\"x\":0,\"y\":-320,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093319814
+  },
+  {
+    "content": "{\"lat\":34.402246,\"lon\":132.43316,\"bat\":3,\"rs\":0,\"temp\":30.3,\"humi\":63.7,\"x\":64,\"y\":-320,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093368914
+  },
+  {
+    "content": "{\"lat\":34.398424,\"lon\":132.42855,\"bat\":3,\"rs\":0,\"temp\":30.2,\"humi\":63.3,\"x\":0,\"y\":-320,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093413108
+  },
+  {
+    "content": "{\"lat\":34.394852,\"lon\":132.423725,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":65.4,\"x\":0,\"y\":-320,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093492291
+  },
+  {
+    "content": "{\"lat\":34.388069,\"lon\":132.413982,\"bat\":3,\"rs\":1,\"temp\":30.5,\"humi\":70.6,\"x\":0,\"y\":-320,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093537692
+  },
+  {
+    "content": "{\"lat\":34.379128,\"lon\":132.399253,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":67.4,\"x\":64,\"y\":-256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093617751
+  },
+  {
+    "content": "{\"lat\":34.375468,\"lon\":132.391582,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":68.6,\"x\":-64,\"y\":-320,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093672632
+  },
+  {
+    "content": "{\"lat\":34.374826,\"lon\":132.39094,\"bat\":3,\"rs\":4,\"temp\":30.8,\"humi\":63.4,\"x\":384,\"y\":-768,\"z\":-448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093712620
+  },
+  {
+    "content": "{\"lat\":34.369422,\"lon\":132.379504,\"bat\":3,\"rs\":4,\"temp\":30.8,\"humi\":71.8,\"x\":320,\"y\":-896,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093773352
+  },
+  {
+    "content": "{\"lat\":34.366826,\"lon\":132.368713,\"bat\":3,\"rs\":1,\"temp\":30.9,\"humi\":68.5,\"x\":384,\"y\":-512,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093827985
+  },
+  {
+    "content": "{\"lat\":34.366237,\"lon\":132.366299,\"bat\":3,\"rs\":0,\"temp\":31.1,\"humi\":68.8,\"x\":256,\"y\":-448,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093903434
+  },
+  {
+    "content": "{\"lat\":34.364968,\"lon\":132.351998,\"bat\":3,\"rs\":0,\"temp\":31,\"humi\":67.6,\"x\":320,\"y\":-320,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789093964871
+  },
+  {
+    "content": "{\"lat\":34.361476,\"lon\":132.339409,\"bat\":3,\"rs\":0,\"temp\":30,\"humi\":68,\"x\":320,\"y\":-256,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094009743
+  },
+  {
+    "content": "{\"lat\":34.357797,\"lon\":132.335643,\"bat\":3,\"rs\":0,\"temp\":31.1,\"humi\":68,\"x\":192,\"y\":-384,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094068384
+  },
+  {
+    "content": "{\"lat\":34.355286,\"lon\":132.332375,\"bat\":3,\"rs\":4,\"temp\":30.9,\"humi\":67.6,\"x\":192,\"y\":-384,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094128731
+  },
+  {
+    "content": "{\"lat\":34.349281,\"lon\":132.324022,\"bat\":3,\"rs\":2,\"temp\":30.9,\"humi\":67.1,\"x\":576,\"y\":-448,\"z\":-576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094188543
+  },
+  {
+    "content": "{\"lat\":34.347805,\"lon\":132.323674,\"bat\":3,\"rs\":4,\"temp\":31.2,\"humi\":67.9,\"x\":320,\"y\":-384,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094249018
+  },
+  {
+    "content": "{\"lat\":34.33814,\"lon\":132.319186,\"bat\":3,\"rs\":1,\"temp\":31.1,\"humi\":70.2,\"x\":256,\"y\":-448,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094303973
+  },
+  {
+    "content": "{\"lat\":34.326375,\"lon\":132.316104,\"bat\":3,\"rs\":4,\"temp\":30.8,\"humi\":68.2,\"x\":320,\"y\":-448,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094374458
+  },
+  {
+    "content": "{\"lat\":34.323984,\"lon\":132.314844,\"bat\":3,\"rs\":0,\"temp\":31,\"humi\":69.7,\"x\":896,\"y\":-448,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094428299
+  },
+  {
+    "content": "{\"lat\":34.317809,\"lon\":132.309784,\"bat\":3,\"rs\":1,\"temp\":30,\"humi\":66.8,\"x\":896,\"y\":-448,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094488303
+  },
+  {
+    "content": "{\"lat\":34.312378,\"lon\":132.303218,\"bat\":3,\"rs\":4,\"temp\":30.9,\"humi\":67.3,\"x\":0,\"y\":-576,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094548465
+  },
+  {
+    "content": "{\"lat\":34.311928,\"lon\":132.302895,\"bat\":3,\"rs\":1,\"temp\":30.9,\"humi\":63.4,\"x\":256,\"y\":-832,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094608604
+  },
+  {
+    "content": "{\"lat\":34.311684,\"lon\":132.303543,\"bat\":3,\"rs\":3,\"temp\":30.5,\"humi\":62.9,\"x\":256,\"y\":-704,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094683672
+  },
+  {
+    "content": "{\"lat\":34.311358,\"lon\":132.304256,\"bat\":3,\"rs\":0,\"temp\":30.7,\"humi\":67.6,\"x\":576,\"y\":-128,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094723746
+  },
+  {
+    "content": "{\"lat\":34.311221,\"lon\":132.305667,\"bat\":3,\"rs\":0,\"temp\":30.5,\"humi\":68,\"x\":192,\"y\":-128,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094822045
+  },
+  {
+    "content": "{\"lat\":34.31095,\"lon\":132.306243,\"bat\":3,\"rs\":4,\"temp\":30.6,\"humi\":67.7,\"x\":640,\"y\":-1280,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094848754
+  },
+  {
+    "content": "{\"lat\":34.310974,\"lon\":132.306361,\"bat\":3,\"rs\":1,\"temp\":30.5,\"humi\":67.7,\"x\":448,\"y\":-832,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094904080
+  },
+  {
+    "content": "{\"lat\":34.310974,\"lon\":132.30639,\"bat\":3,\"rs\":0,\"temp\":30.5,\"humi\":67.9,\"x\":384,\"y\":-832,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789094978290
+  },
+  {
+    "content": "{\"lat\":34.310937,\"lon\":132.306475,\"bat\":3,\"rs\":0,\"temp\":30.5,\"humi\":68.3,\"x\":384,\"y\":-704,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095028465
+  },
+  {
+    "content": "{\"lat\":34.310151,\"lon\":132.307954,\"bat\":3,\"rs\":0,\"temp\":30.4,\"humi\":66.6,\"x\":512,\"y\":-768,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095106584
+  },
+  {
+    "content": "{\"lat\":34.308973,\"lon\":132.3098,\"bat\":3,\"rs\":1,\"temp\":30.6,\"humi\":69.3,\"x\":384,\"y\":-768,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095153581
+  },
+  {
+    "content": "{\"lat\":34.307505,\"lon\":132.311784,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":68.2,\"x\":320,\"y\":-896,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095213734
+  },
+  {
+    "content": "{\"lat\":34.306381,\"lon\":132.313802,\"bat\":3,\"rs\":0,\"temp\":30.5,\"humi\":64.8,\"x\":384,\"y\":-768,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095273892
+  },
+  {
+    "content": "{\"lat\":34.30536,\"lon\":132.315268,\"bat\":3,\"rs\":0,\"temp\":30.3,\"humi\":68.3,\"x\":448,\"y\":-768,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095331757
+  },
+  {
+    "content": "{\"lat\":34.30456,\"lon\":132.317218,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":72.1,\"x\":384,\"y\":-832,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095394230
+  },
+  {
+    "content": "{\"lat\":34.30343,\"lon\":132.319625,\"bat\":3,\"rs\":0,\"temp\":30.4,\"humi\":68.4,\"x\":320,\"y\":-832,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095453677
+  },
+  {
+    "content": "{\"lat\":34.303066,\"lon\":132.321248,\"bat\":3,\"rs\":0,\"temp\":30,\"humi\":72.4,\"x\":320,\"y\":-832,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095503337
+  },
+  {
+    "content": "{\"lat\":34.302758,\"lon\":132.321971,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":69.1,\"x\":576,\"y\":-1280,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095563585
+  },
+  {
+    "content": "{\"lat\":34.301861,\"lon\":132.322452,\"bat\":3,\"rs\":4,\"temp\":30.4,\"humi\":68.2,\"x\":320,\"y\":-320,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095633574
+  },
+  {
+    "content": "{\"lat\":34.301185,\"lon\":132.321798,\"bat\":3,\"rs\":0,\"temp\":30.4,\"humi\":68.5,\"x\":256,\"y\":-832,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095693660
+  },
+  {
+    "content": "{\"lat\":34.299679,\"lon\":132.321307,\"bat\":3,\"rs\":0,\"temp\":30.4,\"humi\":66.8,\"x\":256,\"y\":-704,\"z\":-512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095783899
+  },
+  {
+    "content": "{\"lat\":34.299535,\"lon\":132.321308,\"bat\":3,\"rs\":4,\"temp\":30.5,\"humi\":69.6,\"x\":640,\"y\":-960,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095809773
+  },
+  {
+    "content": "{\"lat\":34.298686,\"lon\":132.321063,\"bat\":3,\"rs\":4,\"temp\":30.4,\"humi\":67.9,\"x\":320,\"y\":-576,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095875098
+  },
+  {
+    "content": "{\"lat\":34.297873,\"lon\":132.320407,\"bat\":3,\"rs\":0,\"temp\":30.3,\"humi\":69,\"x\":192,\"y\":-320,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095935183
+  },
+  {
+    "content": "{\"lat\":34.29754,\"lon\":132.319538,\"bat\":3,\"rs\":0,\"temp\":30.3,\"humi\":73.1,\"x\":576,\"y\":-576,\"z\":-576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789095995263
+  },
+  {
+    "content": "{\"lat\":34.297316,\"lon\":132.319213,\"bat\":3,\"rs\":0,\"temp\":30.7,\"humi\":69.5,\"x\":384,\"y\":-832,\"z\":-448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096055440
+  },
+  {
+    "content": "{\"lat\":34.297327,\"lon\":132.318997,\"bat\":3,\"rs\":2,\"temp\":30.4,\"humi\":73.2,\"x\":448,\"y\":-832,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096111175
+  },
+  {
+    "content": "{\"lat\":34.29733,\"lon\":132.31908,\"bat\":3,\"rs\":2,\"temp\":30.6,\"humi\":69.7,\"x\":320,\"y\":-832,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096170800
+  },
+  {
+    "content": "{\"lat\":34.297568,\"lon\":132.319741,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":73.1,\"x\":320,\"y\":-832,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096235742
+  },
+  {
+    "content": "{\"lat\":34.297707,\"lon\":132.320538,\"bat\":3,\"rs\":4,\"temp\":30.6,\"humi\":70.2,\"x\":320,\"y\":-832,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096296175
+  },
+  {
+    "content": "{\"lat\":34.297966,\"lon\":132.32099,\"bat\":3,\"rs\":0,\"temp\":30.7,\"humi\":69.7,\"x\":384,\"y\":-640,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096351131
+  },
+  {
+    "content": "{\"lat\":34.298604,\"lon\":132.321577,\"bat\":3,\"rs\":4,\"temp\":30.7,\"humi\":68.5,\"x\":384,\"y\":-1024,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096421192
+  },
+  {
+    "content": "{\"lat\":34.298535,\"lon\":132.321701,\"bat\":3,\"rs\":3,\"temp\":29.8,\"humi\":67.6,\"x\":512,\"y\":-704,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096476313
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":30.8,\"humi\":66,\"x\":640,\"y\":-192,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096676461
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":3,\"temp\":30.6,\"humi\":64.4,\"x\":640,\"y\":-128,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789096847592
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":3,\"temp\":30.5,\"humi\":61.6,\"x\":640,\"y\":-128,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789097014696
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":3,\"temp\":30.4,\"humi\":62.1,\"x\":640,\"y\":-128,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789097185741
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.9,\"humi\":58.7,\"x\":640,\"y\":-128,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789097359405
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":64.5,\"x\":384,\"y\":-768,\"z\":-448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789097872312
+  },
+  {
+    "content": "{\"lat\":34.299089,\"lon\":132.321095,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":60.1,\"x\":64,\"y\":-1344,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789097943430
+  },
+  {
+    "content": "{\"lat\":34.299234,\"lon\":132.321383,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":62.3,\"x\":512,\"y\":-640,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789097970266
+  },
+  {
+    "content": "{\"lat\":34.300399,\"lon\":132.321488,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":60.5,\"x\":1024,\"y\":-576,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098050726
+  },
+  {
+    "content": "{\"lat\":34.301012,\"lon\":132.321777,\"bat\":3,\"rs\":0,\"temp\":28.6,\"humi\":65.1,\"x\":896,\"y\":-1024,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098093742
+  },
+  {
+    "content": "{\"lat\":34.301417,\"lon\":132.322537,\"bat\":3,\"rs\":0,\"temp\":28.8,\"humi\":68.8,\"x\":832,\"y\":-768,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098144864
+  },
+  {
+    "content": "{\"lat\":34.301346,\"lon\":132.32194,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":65.5,\"x\":576,\"y\":-1024,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098205035
+  },
+  {
+    "content": "{\"lat\":34.300194,\"lon\":132.321383,\"bat\":3,\"rs\":2,\"temp\":28.9,\"humi\":66.3,\"x\":320,\"y\":-768,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098285301
+  },
+  {
+    "content": "{\"lat\":34.300047,\"lon\":132.321724,\"bat\":3,\"rs\":0,\"temp\":28.7,\"humi\":66.8,\"x\":576,\"y\":-1024,\"z\":-512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098330363
+  },
+  {
+    "content": "{\"lat\":34.299299,\"lon\":132.322089,\"bat\":3,\"rs\":2,\"temp\":29.3,\"humi\":66.9,\"x\":768,\"y\":-832,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098470304
+  },
+  {
+    "content": "{\"lat\":34.299455,\"lon\":132.321877,\"bat\":3,\"rs\":4,\"temp\":29.4,\"humi\":65.9,\"x\":256,\"y\":-512,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098492285
+  },
+  {
+    "content": "{\"lat\":34.300297,\"lon\":132.321313,\"bat\":3,\"rs\":0,\"temp\":29.1,\"humi\":66,\"x\":384,\"y\":-832,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098562687
+  },
+  {
+    "content": "{\"lat\":34.30107,\"lon\":132.321508,\"bat\":3,\"rs\":2,\"temp\":29.3,\"humi\":67.8,\"x\":704,\"y\":-1216,\"z\":-448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098616794
+  },
+  {
+    "content": "{\"lat\":34.301759,\"lon\":132.322198,\"bat\":3,\"rs\":4,\"temp\":29.6,\"humi\":71.1,\"x\":448,\"y\":-256,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098671901
+  },
+  {
+    "content": "{\"lat\":34.302173,\"lon\":132.321486,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":67.7,\"x\":320,\"y\":-512,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098737146
+  },
+  {
+    "content": "{\"lat\":34.302141,\"lon\":132.321022,\"bat\":3,\"rs\":0,\"temp\":29.4,\"humi\":67.9,\"x\":448,\"y\":-576,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098792244
+  },
+  {
+    "content": "{\"lat\":34.302352,\"lon\":132.321026,\"bat\":3,\"rs\":0,\"temp\":29.4,\"humi\":68.1,\"x\":-128,\"y\":-64,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098852607
+  },
+  {
+    "content": "{\"lat\":34.302259,\"lon\":132.320948,\"bat\":3,\"rs\":0,\"temp\":29.4,\"humi\":72.1,\"x\":384,\"y\":-384,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098918029
+  },
+  {
+    "content": "{\"lat\":34.302211,\"lon\":132.320954,\"bat\":3,\"rs\":0,\"temp\":29.4,\"humi\":66.8,\"x\":384,\"y\":-320,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789098972627
+  },
+  {
+    "content": "{\"lat\":34.302482,\"lon\":132.319768,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":67.9,\"x\":576,\"y\":-384,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099032721
+  },
+  {
+    "content": "{\"lat\":34.303745,\"lon\":132.317827,\"bat\":3,\"rs\":0,\"temp\":29.4,\"humi\":68.3,\"x\":576,\"y\":-384,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099091892
+  },
+  {
+    "content": "{\"lat\":34.304788,\"lon\":132.315802,\"bat\":3,\"rs\":0,\"temp\":29.7,\"humi\":72.2,\"x\":576,\"y\":-384,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099151900
+  },
+  {
+    "content": "{\"lat\":34.30643,\"lon\":132.313221,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":68.4,\"x\":576,\"y\":-384,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099222057
+  },
+  {
+    "content": "{\"lat\":34.30744,\"lon\":132.311349,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":72.3,\"x\":576,\"y\":-448,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099272212
+  },
+  {
+    "content": "{\"lat\":34.308728,\"lon\":132.309224,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":68.3,\"x\":576,\"y\":-384,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099332229
+  },
+  {
+    "content": "{\"lat\":34.309647,\"lon\":132.307621,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":68,\"x\":512,\"y\":-384,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099392615
+  },
+  {
+    "content": "{\"lat\":34.310548,\"lon\":132.306187,\"bat\":3,\"rs\":4,\"temp\":29.3,\"humi\":68.7,\"x\":512,\"y\":-384,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099457424
+  },
+  {
+    "content": "{\"lat\":34.310444,\"lon\":132.306253,\"bat\":3,\"rs\":1,\"temp\":29.4,\"humi\":71.5,\"x\":256,\"y\":-704,\"z\":-512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099512536
+  },
+  {
+    "content": "{\"lat\":34.310618,\"lon\":132.30615,\"bat\":3,\"rs\":4,\"temp\":29.7,\"humi\":66,\"x\":320,\"y\":-640,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099572704
+  },
+  {
+    "content": "{\"lat\":34.310966,\"lon\":132.305531,\"bat\":3,\"rs\":3,\"temp\":29.4,\"humi\":74.2,\"x\":192,\"y\":-832,\"z\":-576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099636853
+  },
+  {
+    "content": "{\"lat\":34.311079,\"lon\":132.305166,\"bat\":3,\"rs\":3,\"temp\":29.9,\"humi\":70.7,\"x\":960,\"y\":-1024,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099707971
+  },
+  {
+    "content": "{\"lat\":34.311371,\"lon\":132.304846,\"bat\":3,\"rs\":2,\"temp\":29.4,\"humi\":70.2,\"x\":320,\"y\":-576,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099753128
+  },
+  {
+    "content": "{\"lat\":34.311819,\"lon\":132.303716,\"bat\":3,\"rs\":4,\"temp\":29.7,\"humi\":70.9,\"x\":320,\"y\":-384,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099822127
+  },
+  {
+    "content": "{\"lat\":34.311974,\"lon\":132.302869,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":70.3,\"x\":896,\"y\":-704,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099897246
+  },
+  {
+    "content": "{\"lat\":34.311944,\"lon\":132.30298,\"bat\":3,\"rs\":3,\"temp\":29.8,\"humi\":71.7,\"x\":640,\"y\":-576,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099947426
+  },
+  {
+    "content": "{\"lat\":34.312027,\"lon\":132.303036,\"bat\":3,\"rs\":0,\"temp\":29.9,\"humi\":71.3,\"x\":832,\"y\":-1280,\"z\":-1216,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789099992543
+  },
+  {
+    "content": "{\"lat\":34.31208,\"lon\":132.302969,\"bat\":3,\"rs\":2,\"temp\":30.1,\"humi\":71.1,\"x\":640,\"y\":-1088,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100057592
+  },
+  {
+    "content": "{\"lat\":34.311791,\"lon\":132.302533,\"bat\":3,\"rs\":0,\"temp\":30.5,\"humi\":71.4,\"x\":-512,\"y\":896,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100177810
+  },
+  {
+    "content": "{\"lat\":34.312202,\"lon\":132.302866,\"bat\":3,\"rs\":0,\"temp\":30.4,\"humi\":71.3,\"x\":-512,\"y\":832,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100209740
+  },
+  {
+    "content": "{\"lat\":34.312231,\"lon\":132.302874,\"bat\":3,\"rs\":4,\"temp\":30.6,\"humi\":70.9,\"x\":-576,\"y\":896,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100265087
+  },
+  {
+    "content": "{\"lat\":34.312324,\"lon\":132.30296,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":71,\"x\":-512,\"y\":896,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100330855
+  },
+  {
+    "content": "{\"lat\":34.312262,\"lon\":132.302889,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":70.3,\"x\":-512,\"y\":832,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100385244
+  },
+  {
+    "content": "{\"lat\":34.318973,\"lon\":132.311399,\"bat\":3,\"rs\":3,\"temp\":30,\"humi\":69.7,\"x\":-768,\"y\":448,\"z\":-512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100500388
+  },
+  {
+    "content": "{\"lat\":34.348529,\"lon\":132.324091,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":64.2,\"x\":-704,\"y\":320,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100786535
+  },
+  {
+    "content": "{\"lat\":34.355231,\"lon\":132.331779,\"bat\":3,\"rs\":4,\"temp\":30.3,\"humi\":63.2,\"x\":-704,\"y\":384,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100853688
+  },
+  {
+    "content": "{\"lat\":34.357974,\"lon\":132.335073,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":62.3,\"x\":-768,\"y\":320,\"z\":-576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100910967
+  },
+  {
+    "content": "{\"lat\":34.362401,\"lon\":132.339924,\"bat\":3,\"rs\":1,\"temp\":30.1,\"humi\":62.1,\"x\":-768,\"y\":320,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789100979930
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":2,\"temp\":29.7,\"humi\":62.5,\"x\":-704,\"y\":320,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789101147303
+  },
+  {
+    "content": "{\"lat\":34.371627,\"lon\":132.385624,\"bat\":3,\"rs\":3,\"temp\":29.9,\"humi\":56.2,\"x\":-704,\"y\":320,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789101235134
+  },
+  {
+    "content": "{\"lat\":34.375359,\"lon\":132.391294,\"bat\":3,\"rs\":3,\"temp\":29.6,\"humi\":59.2,\"x\":-768,\"y\":256,\"z\":-576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789101277683
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.3,\"humi\":62.8,\"x\":-704,\"y\":320,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789101468305
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":1,\"temp\":29.1,\"humi\":58,\"x\":-512,\"y\":448,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789101637906
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.2,\"humi\":62.4,\"x\":-448,\"y\":448,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789101806391
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.1,\"humi\":57.8,\"x\":-576,\"y\":512,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789101975908
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":28.9,\"humi\":57.8,\"x\":-640,\"y\":896,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789102148134
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.2,\"humi\":55.2,\"x\":-384,\"y\":1088,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789102315091
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.2,\"humi\":60.7,\"x\":-256,\"y\":1088,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789102486371
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.5,\"humi\":62.5,\"x\":-320,\"y\":768,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789102657330
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.8,\"humi\":64.9,\"x\":-576,\"y\":832,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789102824630
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":1,\"temp\":29.7,\"humi\":64.7,\"x\":-832,\"y\":448,\"z\":-448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789102996614
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":30,\"humi\":61.5,\"x\":-768,\"y\":448,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789103163754
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":2,\"temp\":30.2,\"humi\":65.1,\"x\":-704,\"y\":640,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789103334947
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":30.4,\"humi\":65.6,\"x\":-512,\"y\":768,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789103502053
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":30.4,\"humi\":61,\"x\":-384,\"y\":320,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789103669180
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":30.4,\"humi\":64.2,\"x\":-384,\"y\":256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789103849858
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":30.2,\"humi\":63.1,\"x\":-448,\"y\":256,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789104018065
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":30.3,\"humi\":62.9,\"x\":-448,\"y\":320,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789104190020
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":30.1,\"humi\":66.6,\"x\":-448,\"y\":320,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789104361184
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":30.3,\"humi\":59.2,\"x\":-384,\"y\":320,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789104533369
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":30.2,\"humi\":62.7,\"x\":-512,\"y\":832,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789104705072
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":30.2,\"humi\":62.8,\"x\":-448,\"y\":832,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789104873256
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":30.4,\"humi\":58.1,\"x\":-512,\"y\":768,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105043302
+  },
+  {
+    "content": "{\"lat\":34.556372,\"lon\":133.664819,\"bat\":3,\"rs\":0,\"temp\":29,\"humi\":63.4,\"x\":-64,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105407356
+  },
+  {
+    "content": "{\"lat\":34.610782,\"lon\":133.727786,\"bat\":3,\"rs\":0,\"temp\":29.2,\"humi\":63.7,\"x\":0,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105522991
+  },
+  {
+    "content": "{\"lat\":34.646213,\"lon\":133.813421,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":64.4,\"x\":-64,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105645606
+  },
+  {
+    "content": "{\"lat\":34.651891,\"lon\":133.833217,\"bat\":3,\"rs\":0,\"temp\":28,\"humi\":60.4,\"x\":-64,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105674638
+  },
+  {
+    "content": "{\"lat\":34.656605,\"lon\":133.876323,\"bat\":3,\"rs\":0,\"temp\":28.7,\"humi\":65,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105727917
+  },
+  {
+    "content": "{\"lat\":34.659521,\"lon\":133.905732,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":61.8,\"x\":0,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105797184
+  },
+  {
+    "content": "{\"lat\":34.664069,\"lon\":133.916612,\"bat\":3,\"rs\":1,\"temp\":28.5,\"humi\":68.7,\"x\":-128,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105858718
+  },
+  {
+    "content": "{\"lat\":34.66544,\"lon\":133.917445,\"bat\":3,\"rs\":3,\"temp\":28.3,\"humi\":65.6,\"x\":-64,\"y\":0,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105914232
+  },
+  {
+    "content": "{\"lat\":34.665427,\"lon\":133.917835,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":66,\"x\":-1024,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789105981758
+  },
+  {
+    "content": "{\"lat\":34.674513,\"lon\":133.92255,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":65.2,\"x\":-1024,\"y\":64,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106029366
+  },
+  {
+    "content": "{\"lat\":34.682044,\"lon\":133.944676,\"bat\":3,\"rs\":0,\"temp\":28.2,\"humi\":64.9,\"x\":-1024,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106089672
+  },
+  {
+    "content": "{\"lat\":34.685292,\"lon\":133.981433,\"bat\":3,\"rs\":0,\"temp\":28,\"humi\":64.7,\"x\":-1024,\"y\":64,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106155007
+  },
+  {
+    "content": "{\"lat\":34.70265,\"lon\":134.026248,\"bat\":3,\"rs\":0,\"temp\":28.4,\"humi\":64.1,\"x\":-1024,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106217767
+  },
+  {
+    "content": "{\"lat\":34.724204,\"lon\":134.098799,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":63.5,\"x\":-960,\"y\":-64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106297210
+  },
+  {
+    "content": "{\"lat\":34.731064,\"lon\":134.128274,\"bat\":3,\"rs\":4,\"temp\":28.1,\"humi\":60.6,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106331035
+  },
+  {
+    "content": "{\"lat\":34.752092,\"lon\":134.206162,\"bat\":3,\"rs\":0,\"temp\":27,\"humi\":65.3,\"x\":-1088,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106422613
+  },
+  {
+    "content": "{\"lat\":34.753886,\"lon\":134.230363,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":64.5,\"x\":-1024,\"y\":0,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106451162
+  },
+  {
+    "content": "{\"lat\":34.778966,\"lon\":134.344134,\"bat\":3,\"rs\":3,\"temp\":27.8,\"humi\":68.8,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106588071
+  },
+  {
+    "content": "{\"lat\":34.794992,\"lon\":134.40065,\"bat\":3,\"rs\":0,\"temp\":27.6,\"humi\":64.9,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106660814
+  },
+  {
+    "content": "{\"lat\":34.818238,\"lon\":134.472617,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":64.2,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106745272
+  },
+  {
+    "content": "{\"lat\":34.817819,\"lon\":134.496086,\"bat\":3,\"rs\":0,\"temp\":28.2,\"humi\":59.9,\"x\":-1024,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106771110
+  },
+  {
+    "content": "{\"lat\":34.828023,\"lon\":134.547443,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":63.5,\"x\":-1024,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106829511
+  },
+  {
+    "content": "{\"lat\":34.828302,\"lon\":134.605666,\"bat\":3,\"rs\":0,\"temp\":28,\"humi\":62,\"x\":-1024,\"y\":64,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106897998
+  },
+  {
+    "content": "{\"lat\":34.829012,\"lon\":134.665935,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":62.6,\"x\":-1152,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789106978078
+  },
+  {
+    "content": "{\"lat\":34.824757,\"lon\":134.70428,\"bat\":3,\"rs\":2,\"temp\":28.1,\"humi\":63.3,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107008314
+  },
+  {
+    "content": "{\"lat\":34.809163,\"lon\":134.746142,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":68.5,\"x\":-1024,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107074648
+  },
+  {
+    "content": "{\"lat\":34.780917,\"lon\":134.779845,\"bat\":3,\"rs\":0,\"temp\":28.2,\"humi\":66.1,\"x\":-1088,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107130951
+  },
+  {
+    "content": "{\"lat\":34.753801,\"lon\":134.817122,\"bat\":3,\"rs\":0,\"temp\":27.6,\"humi\":63.9,\"x\":-1088,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107197521
+  },
+  {
+    "content": "{\"lat\":34.727693,\"lon\":134.85514,\"bat\":3,\"rs\":0,\"temp\":28.2,\"humi\":63,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107266283
+  },
+  {
+    "content": "{\"lat\":34.702509,\"lon\":134.892971,\"bat\":3,\"rs\":1,\"temp\":28.3,\"humi\":66.8,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107309930
+  },
+  {
+    "content": "{\"lat\":34.67693,\"lon\":134.929494,\"bat\":3,\"rs\":0,\"temp\":28.4,\"humi\":63.2,\"x\":-1024,\"y\":64,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107370001
+  },
+  {
+    "content": "{\"lat\":34.665873,\"lon\":134.97432,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":67.4,\"x\":-960,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107433036
+  },
+  {
+    "content": "{\"lat\":34.669049,\"lon\":135.022276,\"bat\":3,\"rs\":1,\"temp\":28.2,\"humi\":63.1,\"x\":-1088,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107508245
+  },
+  {
+    "content": "{\"lat\":34.688338,\"lon\":135.111152,\"bat\":3,\"rs\":0,\"temp\":28.2,\"humi\":67.8,\"x\":-1088,\"y\":-64,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107614860
+  },
+  {
+    "content": "{\"lat\":34.706258,\"lon\":135.196469,\"bat\":3,\"rs\":3,\"temp\":28.4,\"humi\":63,\"x\":-1024,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107825826
+  },
+  {
+    "content": "{\"lat\":34.706249,\"lon\":135.197266,\"bat\":3,\"rs\":0,\"temp\":27.9,\"humi\":66.1,\"x\":-1024,\"y\":0,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107885908
+  },
+  {
+    "content": "{\"lat\":34.708427,\"lon\":135.198814,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":64.5,\"x\":-1024,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789107937046
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":63.9,\"x\":-1024,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108145356
+  },
+  {
+    "content": "{\"lat\":34.764802,\"lon\":135.362278,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":64.4,\"x\":-1024,\"y\":64,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108242242
+  },
+  {
+    "content": "{\"lat\":34.766361,\"lon\":135.377693,\"bat\":3,\"rs\":0,\"temp\":28.5,\"humi\":63.5,\"x\":-1088,\"y\":64,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108269541
+  },
+  {
+    "content": "{\"lat\":34.767209,\"lon\":135.417191,\"bat\":3,\"rs\":0,\"temp\":28.6,\"humi\":64,\"x\":-1024,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108331086
+  },
+  {
+    "content": "{\"lat\":34.746322,\"lon\":135.445214,\"bat\":3,\"rs\":0,\"temp\":28.7,\"humi\":59.3,\"x\":-1088,\"y\":-64,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108386400
+  },
+  {
+    "content": "{\"lat\":34.72623,\"lon\":135.456832,\"bat\":3,\"rs\":0,\"temp\":28.6,\"humi\":67.2,\"x\":-960,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108444705
+  },
+  {
+    "content": "{\"lat\":34.725717,\"lon\":135.475866,\"bat\":3,\"rs\":0,\"temp\":28.5,\"humi\":63.2,\"x\":-1024,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108513350
+  },
+  {
+    "content": "{\"lat\":34.731047,\"lon\":135.49153,\"bat\":3,\"rs\":0,\"temp\":27.6,\"humi\":59.3,\"x\":-1024,\"y\":64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108569928
+  },
+  {
+    "content": "{\"lat\":34.733496,\"lon\":135.498875,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":62.4,\"x\":-1024,\"y\":-64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108626319
+  },
+  {
+    "content": "{\"lat\":34.733649,\"lon\":135.498794,\"bat\":3,\"rs\":0,\"temp\":28.4,\"humi\":62.2,\"x\":-1024,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108685189
+  },
+  {
+    "content": "{\"lat\":34.733458,\"lon\":135.498903,\"bat\":3,\"rs\":0,\"temp\":27.9,\"humi\":62.4,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108750718
+  },
+  {
+    "content": "{\"lat\":34.734376,\"lon\":135.500231,\"bat\":3,\"rs\":1,\"temp\":28.1,\"humi\":58.6,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108812866
+  },
+  {
+    "content": "{\"lat\":34.739085,\"lon\":135.510629,\"bat\":3,\"rs\":0,\"temp\":28,\"humi\":62.6,\"x\":-1024,\"y\":64,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108871914
+  },
+  {
+    "content": "{\"lat\":34.745964,\"lon\":135.527695,\"bat\":3,\"rs\":0,\"temp\":27.3,\"humi\":59.8,\"x\":-1024,\"y\":0,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108925519
+  },
+  {
+    "content": "{\"lat\":34.758627,\"lon\":135.55102,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":61.7,\"x\":-1024,\"y\":64,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789108989598
+  },
+  {
+    "content": "{\"lat\":34.783693,\"lon\":135.581599,\"bat\":3,\"rs\":0,\"temp\":27.8,\"humi\":61.8,\"x\":-1024,\"y\":128,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109045042
+  },
+  {
+    "content": "{\"lat\":34.815251,\"lon\":135.614674,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":58.7,\"x\":64,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109104969
+  },
+  {
+    "content": "{\"lat\":34.851252,\"lon\":135.642973,\"bat\":3,\"rs\":0,\"temp\":27.8,\"humi\":62.3,\"x\":-64,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109170153
+  },
+  {
+    "content": "{\"lat\":34.882962,\"lon\":135.673869,\"bat\":3,\"rs\":1,\"temp\":28.2,\"humi\":62.8,\"x\":-64,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109227663
+  },
+  {
+    "content": "{\"lat\":34.91005,\"lon\":135.70657,\"bat\":3,\"rs\":0,\"temp\":27.9,\"humi\":66.6,\"x\":-64,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109285349
+  },
+  {
+    "content": "{\"lat\":34.984505,\"lon\":135.758909,\"bat\":3,\"rs\":0,\"temp\":27,\"humi\":63.9,\"x\":192,\"y\":-1024,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109596875
+  },
+  {
+    "content": "{\"lat\":34.98464,\"lon\":135.758491,\"bat\":3,\"rs\":0,\"temp\":27,\"humi\":64.8,\"x\":384,\"y\":-384,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109632713
+  },
+  {
+    "content": "{\"lat\":34.985735,\"lon\":135.759013,\"bat\":3,\"rs\":0,\"temp\":28.4,\"humi\":69.4,\"x\":192,\"y\":-960,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109813137
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29,\"humi\":68.1,\"x\":64,\"y\":-896,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789109989109
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":28.5,\"humi\":65.1,\"x\":192,\"y\":-896,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110156225
+  },
+  {
+    "content": "{\"lat\":34.98654,\"lon\":135.759113,\"bat\":3,\"rs\":0,\"temp\":28.7,\"humi\":65.5,\"x\":384,\"y\":-832,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110222742
+  },
+  {
+    "content": "{\"lat\":34.986621,\"lon\":135.759081,\"bat\":3,\"rs\":0,\"temp\":28.7,\"humi\":66.8,\"x\":64,\"y\":-704,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110248248
+  },
+  {
+    "content": "{\"lat\":34.986686,\"lon\":135.759023,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":68.5,\"x\":128,\"y\":-896,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110318798
+  },
+  {
+    "content": "{\"lat\":34.986756,\"lon\":135.758973,\"bat\":3,\"rs\":0,\"temp\":28.6,\"humi\":69.4,\"x\":576,\"y\":-768,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110378864
+  },
+  {
+    "content": "{\"lat\":34.986799,\"lon\":135.758948,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":71.5,\"x\":640,\"y\":-768,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110443830
+  },
+  {
+    "content": "{\"lat\":34.986824,\"lon\":135.758926,\"bat\":3,\"rs\":0,\"temp\":28.7,\"humi\":69.5,\"x\":576,\"y\":-768,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110509116
+  },
+  {
+    "content": "{\"lat\":34.986828,\"lon\":135.758916,\"bat\":3,\"rs\":0,\"temp\":28.5,\"humi\":69.3,\"x\":576,\"y\":-768,\"z\":-128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110559115
+  },
+  {
+    "content": "{\"lat\":34.986835,\"lon\":135.758912,\"bat\":3,\"rs\":2,\"temp\":28.5,\"humi\":73,\"x\":384,\"y\":-960,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110629187
+  },
+  {
+    "content": "{\"lat\":34.986877,\"lon\":135.758884,\"bat\":3,\"rs\":0,\"temp\":29,\"humi\":69.9,\"x\":256,\"y\":-896,\"z\":-384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110679262
+  },
+  {
+    "content": "{\"lat\":34.986888,\"lon\":135.758869,\"bat\":3,\"rs\":0,\"temp\":28.3,\"humi\":70.3,\"x\":256,\"y\":-384,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110734460
+  },
+  {
+    "content": "{\"lat\":34.986903,\"lon\":135.75886,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":68,\"x\":512,\"y\":-512,\"z\":-640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110824625
+  },
+  {
+    "content": "{\"lat\":34.986917,\"lon\":135.758858,\"bat\":3,\"rs\":0,\"temp\":28.7,\"humi\":69,\"x\":576,\"y\":-768,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110860792
+  },
+  {
+    "content": "{\"lat\":34.986927,\"lon\":135.758855,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":72.8,\"x\":576,\"y\":-768,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789110960860
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":66,\"x\":512,\"y\":-768,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789111133020
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.4,\"humi\":67.7,\"x\":512,\"y\":-768,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789111300152
+  },
+  {
+    "content": "{\"lat\":34.987376,\"lon\":135.754757,\"bat\":3,\"rs\":4,\"temp\":29.4,\"humi\":67.4,\"x\":576,\"y\":-768,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789111396079
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":2,\"temp\":29.4,\"humi\":65.6,\"x\":512,\"y\":-768,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789111563194
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":63.8,\"x\":384,\"y\":-64,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789111730379
+  },
+  {
+    "content": "{\"lat\":34.975,\"lon\":135.753555,\"bat\":3,\"rs\":0,\"temp\":29.5,\"humi\":62.3,\"x\":448,\"y\":-128,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789111841726
+  },
+  {
+    "content": "{\"lat\":34.972817,\"lon\":135.753315,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":62,\"x\":384,\"y\":0,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789111928594
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":29.9,\"humi\":60,\"x\":384,\"y\":-128,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112095678
+  },
+  {
+    "content": "{\"lat\":34.939307,\"lon\":135.751438,\"bat\":3,\"rs\":0,\"temp\":30.2,\"humi\":60.2,\"x\":192,\"y\":-896,\"z\":-192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112138446
+  },
+  {
+    "content": "{\"lat\":34.898925,\"lon\":135.749573,\"bat\":3,\"rs\":0,\"temp\":29.5,\"humi\":55.8,\"x\":64,\"y\":-128,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112348233
+  },
+  {
+    "content": "{\"lat\":34.899697,\"lon\":135.729736,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":53.5,\"x\":-64,\"y\":-128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112448544
+  },
+  {
+    "content": "{\"lat\":34.891893,\"lon\":135.716339,\"bat\":3,\"rs\":0,\"temp\":30.7,\"humi\":47,\"x\":0,\"y\":-128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112508745
+  },
+  {
+    "content": "{\"lat\":34.896106,\"lon\":135.701766,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":50.4,\"x\":-64,\"y\":-64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112586302
+  },
+  {
+    "content": "{\"lat\":34.903575,\"lon\":135.693446,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":51.2,\"x\":-64,\"y\":-64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112629374
+  },
+  {
+    "content": "{\"lat\":34.913043,\"lon\":135.688576,\"bat\":3,\"rs\":1,\"temp\":30.9,\"humi\":49.1,\"x\":-64,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112685109
+  },
+  {
+    "content": "{\"lat\":34.913084,\"lon\":135.688446,\"bat\":3,\"rs\":1,\"temp\":31.2,\"humi\":49.1,\"x\":-64,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112749652
+  },
+  {
+    "content": "{\"lat\":34.914605,\"lon\":135.68716,\"bat\":3,\"rs\":0,\"temp\":31.1,\"humi\":51.5,\"x\":64,\"y\":-192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112819812
+  },
+  {
+    "content": "{\"lat\":34.916972,\"lon\":135.683107,\"bat\":3,\"rs\":0,\"temp\":31.2,\"humi\":55.3,\"x\":0,\"y\":-256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112875740
+  },
+  {
+    "content": "{\"lat\":34.921071,\"lon\":135.673376,\"bat\":3,\"rs\":0,\"temp\":31.5,\"humi\":49.8,\"x\":64,\"y\":-192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789112937027
+  },
+  {
+    "content": "{\"lat\":34.948024,\"lon\":135.663332,\"bat\":3,\"rs\":4,\"temp\":31.7,\"humi\":48.8,\"x\":0,\"y\":-192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113065069
+  },
+  {
+    "content": "{\"lat\":34.954426,\"lon\":135.657672,\"bat\":3,\"rs\":0,\"temp\":31.7,\"humi\":48.5,\"x\":-128,\"y\":-320,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113111915
+  },
+  {
+    "content": "{\"lat\":34.966887,\"lon\":135.657152,\"bat\":3,\"rs\":0,\"temp\":31.8,\"humi\":48.1,\"x\":0,\"y\":-128,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113177273
+  },
+  {
+    "content": "{\"lat\":34.976784,\"lon\":135.659021,\"bat\":3,\"rs\":4,\"temp\":32.1,\"humi\":47.8,\"x\":-64,\"y\":-192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113217445
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":31.8,\"humi\":51.3,\"x\":192,\"y\":-960,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113413592
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":31.6,\"humi\":50,\"x\":960,\"y\":64,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113583623
+  },
+  {
+    "content": "{\"lat\":35.009475,\"lon\":135.56042,\"bat\":3,\"rs\":0,\"temp\":31.6,\"humi\":49.9,\"x\":0,\"y\":256,\"z\":-1088,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113658333
+  },
+  {
+    "content": "{\"lat\":35.026764,\"lon\":135.547479,\"bat\":3,\"rs\":0,\"temp\":31.7,\"humi\":53.2,\"x\":-256,\"y\":-128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113756296
+  },
+  {
+    "content": "{\"lat\":35.041814,\"lon\":135.537125,\"bat\":3,\"rs\":0,\"temp\":32.1,\"humi\":50.6,\"x\":-512,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113835029
+  },
+  {
+    "content": "{\"lat\":35.04973,\"lon\":135.534558,\"bat\":3,\"rs\":0,\"temp\":32,\"humi\":49.4,\"x\":-576,\"y\":64,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113873738
+  },
+  {
+    "content": "{\"lat\":35.064283,\"lon\":135.527795,\"bat\":3,\"rs\":1,\"temp\":31,\"humi\":53.4,\"x\":-384,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113943652
+  },
+  {
+    "content": "{\"lat\":35.073159,\"lon\":135.517886,\"bat\":3,\"rs\":3,\"temp\":31.7,\"humi\":53.6,\"x\":-448,\"y\":64,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789113999730
+  },
+  {
+    "content": "{\"lat\":35.083392,\"lon\":135.508838,\"bat\":3,\"rs\":3,\"temp\":31.9,\"humi\":58,\"x\":-512,\"y\":64,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114064842
+  },
+  {
+    "content": "{\"lat\":35.093584,\"lon\":135.49998,\"bat\":3,\"rs\":4,\"temp\":31.7,\"humi\":53.7,\"x\":-384,\"y\":128,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114135092
+  },
+  {
+    "content": "{\"lat\":35.101357,\"lon\":135.492931,\"bat\":3,\"rs\":0,\"temp\":32.5,\"humi\":55.6,\"x\":-256,\"y\":128,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114174849
+  },
+  {
+    "content": "{\"lat\":35.111255,\"lon\":135.481257,\"bat\":3,\"rs\":0,\"temp\":32.2,\"humi\":53.1,\"x\":-512,\"y\":64,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114239985
+  },
+  {
+    "content": "{\"lat\":35.123464,\"lon\":135.479206,\"bat\":3,\"rs\":0,\"temp\":32.3,\"humi\":53.5,\"x\":-320,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114297392
+  },
+  {
+    "content": "{\"lat\":35.1279,\"lon\":135.461976,\"bat\":3,\"rs\":0,\"temp\":32.4,\"humi\":52.2,\"x\":-512,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114370389
+  },
+  {
+    "content": "{\"lat\":35.135677,\"lon\":135.454696,\"bat\":3,\"rs\":4,\"temp\":32.6,\"humi\":54.1,\"x\":-256,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114476489
+  },
+  {
+    "content": "{\"lat\":35.144715,\"lon\":135.436032,\"bat\":3,\"rs\":0,\"temp\":32.8,\"humi\":53.4,\"x\":-448,\"y\":128,\"z\":-1088,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114503643
+  },
+  {
+    "content": "{\"lat\":35.15461,\"lon\":135.416273,\"bat\":3,\"rs\":4,\"temp\":32.8,\"humi\":53.2,\"x\":-384,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114588537
+  },
+  {
+    "content": "{\"lat\":35.15657,\"lon\":135.412468,\"bat\":3,\"rs\":2,\"temp\":32,\"humi\":53,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114623834
+  },
+  {
+    "content": "{\"lat\":35.156177,\"lon\":135.415337,\"bat\":3,\"rs\":2,\"temp\":32.9,\"humi\":53.7,\"x\":-448,\"y\":192,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114678957
+  },
+  {
+    "content": "{\"lat\":35.156249,\"lon\":135.416035,\"bat\":3,\"rs\":0,\"temp\":33.3,\"humi\":56.1,\"x\":-1216,\"y\":192,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114759021
+  },
+  {
+    "content": "{\"lat\":35.156107,\"lon\":135.415965,\"bat\":3,\"rs\":0,\"temp\":32.7,\"humi\":57.7,\"x\":-1216,\"y\":128,\"z\":-576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114834079
+  },
+  {
+    "content": "{\"lat\":35.155511,\"lon\":135.416621,\"bat\":3,\"rs\":0,\"temp\":32.6,\"humi\":55.7,\"x\":-1152,\"y\":192,\"z\":-448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114943282
+  },
+  {
+    "content": "{\"lat\":35.155822,\"lon\":135.416317,\"bat\":3,\"rs\":0,\"temp\":32.5,\"humi\":56.9,\"x\":-1408,\"y\":192,\"z\":-512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789114975345
+  },
+  {
+    "content": "{\"lat\":35.156233,\"lon\":135.415894,\"bat\":3,\"rs\":4,\"temp\":31.9,\"humi\":54.4,\"x\":-960,\"y\":256,\"z\":-320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115040472
+  },
+  {
+    "content": "{\"lat\":35.1562,\"lon\":135.415777,\"bat\":3,\"rs\":0,\"temp\":32.1,\"humi\":56.8,\"x\":-512,\"y\":64,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115090705
+  },
+  {
+    "content": "{\"lat\":35.156053,\"lon\":135.415483,\"bat\":3,\"rs\":4,\"temp\":31.8,\"humi\":56.8,\"x\":-512,\"y\":64,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115145749
+  },
+  {
+    "content": "{\"lat\":35.155987,\"lon\":135.415345,\"bat\":3,\"rs\":0,\"temp\":30.6,\"humi\":53.1,\"x\":-576,\"y\":64,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115205821
+  },
+  {
+    "content": "{\"lat\":35.155979,\"lon\":135.415324,\"bat\":3,\"rs\":0,\"temp\":31.1,\"humi\":53.3,\"x\":-576,\"y\":192,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115271833
+  },
+  {
+    "content": "{\"lat\":35.155964,\"lon\":135.415248,\"bat\":3,\"rs\":4,\"temp\":31.2,\"humi\":56.8,\"x\":-576,\"y\":192,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115326059
+  },
+  {
+    "content": "{\"lat\":35.15577,\"lon\":135.414571,\"bat\":3,\"rs\":4,\"temp\":30.9,\"humi\":55.5,\"x\":-960,\"y\":-64,\"z\":-576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115396318
+  },
+  {
+    "content": "{\"lat\":35.164921,\"lon\":135.386102,\"bat\":3,\"rs\":0,\"temp\":30.8,\"humi\":50.4,\"x\":-576,\"y\":64,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115512361
+  },
+  {
+    "content": "{\"lat\":35.168825,\"lon\":135.374304,\"bat\":3,\"rs\":0,\"temp\":31.1,\"humi\":55.3,\"x\":-704,\"y\":192,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115562523
+  },
+  {
+    "content": "{\"lat\":35.178385,\"lon\":135.367457,\"bat\":3,\"rs\":4,\"temp\":31.5,\"humi\":55.8,\"x\":-704,\"y\":-256,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115612573
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":0,\"temp\":31.2,\"humi\":61.5,\"x\":128,\"y\":-64,\"z\":1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115802790
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":31.2,\"humi\":60.1,\"x\":-64,\"y\":-192,\"z\":960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789115978802
+  },
+  {
+    "content": "{\"lat\":35.276739,\"lon\":135.337829,\"bat\":3,\"rs\":4,\"temp\":30,\"humi\":58.9,\"x\":-64,\"y\":-192,\"z\":960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789116126826
+  },
+  {
+    "content": "{\"lat\":35.296817,\"lon\":135.333122,\"bat\":3,\"rs\":4,\"temp\":30,\"humi\":57.9,\"x\":-64,\"y\":-192,\"z\":1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789116217520
+  },
+  {
+    "content": "{\"lat\":35.388398,\"lon\":135.241297,\"bat\":3,\"rs\":4,\"temp\":30.2,\"humi\":54.7,\"x\":128,\"y\":64,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789116856555
+  },
+  {
+    "content": "{\"lat\":35.408327,\"lon\":135.22713,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":53.8,\"x\":-64,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789116972021
+  },
+  {
+    "content": "{\"lat\":35.417104,\"lon\":135.216933,\"bat\":3,\"rs\":0,\"temp\":30,\"humi\":49.6,\"x\":0,\"y\":320,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117033380
+  },
+  {
+    "content": "{\"lat\":35.426117,\"lon\":135.211376,\"bat\":3,\"rs\":4,\"temp\":29.6,\"humi\":53.3,\"x\":-64,\"y\":256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117073627
+  },
+  {
+    "content": "{\"lat\":35.435836,\"lon\":135.201411,\"bat\":3,\"rs\":1,\"temp\":29.4,\"humi\":49.3,\"x\":64,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117133528
+  },
+  {
+    "content": "{\"lat\":35.442936,\"lon\":135.189125,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":52.5,\"x\":0,\"y\":128,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117198697
+  },
+  {
+    "content": "{\"lat\":35.450687,\"lon\":135.181782,\"bat\":3,\"rs\":0,\"temp\":28.6,\"humi\":54.7,\"x\":-64,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117264696
+  },
+  {
+    "content": "{\"lat\":35.462682,\"lon\":135.173799,\"bat\":3,\"rs\":4,\"temp\":28.5,\"humi\":53.1,\"x\":-64,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117333666
+  },
+  {
+    "content": "{\"lat\":35.471174,\"lon\":135.175826,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":53.4,\"x\":0,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117383672
+  },
+  {
+    "content": "{\"lat\":35.494315,\"lon\":135.17268,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":52.9,\"x\":64,\"y\":192,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117489844
+  },
+  {
+    "content": "{\"lat\":35.499694,\"lon\":135.176473,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":53.4,\"x\":64,\"y\":192,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117520898
+  },
+  {
+    "content": "{\"lat\":35.506353,\"lon\":135.187628,\"bat\":3,\"rs\":1,\"temp\":28.8,\"humi\":56.2,\"x\":64,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117576380
+  },
+  {
+    "content": "{\"lat\":35.515441,\"lon\":135.19379,\"bat\":3,\"rs\":0,\"temp\":28.7,\"humi\":54.1,\"x\":-192,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117661200
+  },
+  {
+    "content": "{\"lat\":35.518897,\"lon\":135.189913,\"bat\":3,\"rs\":0,\"temp\":28.8,\"humi\":56.1,\"x\":64,\"y\":256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117706319
+  },
+  {
+    "content": "{\"lat\":35.521389,\"lon\":135.189457,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":60.2,\"x\":64,\"y\":256,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117771434
+  },
+  {
+    "content": "{\"lat\":35.523157,\"lon\":135.189611,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":58.3,\"x\":-128,\"y\":256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117836626
+  },
+  {
+    "content": "{\"lat\":35.526068,\"lon\":135.191202,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":58.6,\"x\":-192,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117896688
+  },
+  {
+    "content": "{\"lat\":35.530777,\"lon\":135.19163,\"bat\":3,\"rs\":0,\"temp\":28.9,\"humi\":57.9,\"x\":-64,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789117950764
+  },
+  {
+    "content": "{\"lat\":35.536091,\"lon\":135.193693,\"bat\":3,\"rs\":0,\"temp\":29,\"humi\":56.2,\"x\":0,\"y\":128,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118021027
+  },
+  {
+    "content": "{\"lat\":35.536154,\"lon\":135.193816,\"bat\":3,\"rs\":0,\"temp\":29.3,\"humi\":61.2,\"x\":0,\"y\":384,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118056067
+  },
+  {
+    "content": "{\"lat\":35.536089,\"lon\":135.195597,\"bat\":3,\"rs\":0,\"temp\":28.8,\"humi\":56,\"x\":-128,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118121194
+  },
+  {
+    "content": "{\"lat\":35.534488,\"lon\":135.199605,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":59.3,\"x\":64,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118181343
+  },
+  {
+    "content": "{\"lat\":35.534606,\"lon\":135.199689,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":53.6,\"x\":0,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118246541
+  },
+  {
+    "content": "{\"lat\":35.536419,\"lon\":135.19917,\"bat\":3,\"rs\":0,\"temp\":28.9,\"humi\":56.8,\"x\":64,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118301502
+  },
+  {
+    "content": "{\"lat\":35.537362,\"lon\":135.196501,\"bat\":3,\"rs\":4,\"temp\":28.5,\"humi\":60.3,\"x\":0,\"y\":192,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118366700
+  },
+  {
+    "content": "{\"lat\":35.538243,\"lon\":135.192643,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":60.2,\"x\":64,\"y\":256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118450858
+  },
+  {
+    "content": "{\"lat\":35.538242,\"lon\":135.192765,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":56.8,\"x\":64,\"y\":256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118480664
+  },
+  {
+    "content": "{\"lat\":35.53961,\"lon\":135.191787,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":57,\"x\":0,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118545970
+  },
+  {
+    "content": "{\"lat\":35.542755,\"lon\":135.190197,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":58.2,\"x\":0,\"y\":256,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118621200
+  },
+  {
+    "content": "{\"lat\":35.54597,\"lon\":135.189181,\"bat\":3,\"rs\":0,\"temp\":28.5,\"humi\":55.5,\"x\":0,\"y\":192,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118656222
+  },
+  {
+    "content": "{\"lat\":35.55267,\"lon\":135.186615,\"bat\":3,\"rs\":3,\"temp\":28,\"humi\":60.5,\"x\":-192,\"y\":64,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118721511
+  },
+  {
+    "content": "{\"lat\":35.55747,\"lon\":135.183565,\"bat\":3,\"rs\":4,\"temp\":28.6,\"humi\":58.9,\"x\":384,\"y\":192,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118776542
+  },
+  {
+    "content": "{\"lat\":35.558011,\"lon\":135.182477,\"bat\":3,\"rs\":4,\"temp\":28.3,\"humi\":62.3,\"x\":576,\"y\":128,\"z\":-1024,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118841663
+  },
+  {
+    "content": "{\"lat\":35.557912,\"lon\":135.181606,\"bat\":3,\"rs\":4,\"temp\":27,\"humi\":62.5,\"x\":256,\"y\":-320,\"z\":-896,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789118906777
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.5,\"humi\":62.2,\"x\":576,\"y\":0,\"z\":-832,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789119102934
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":65.4,\"x\":320,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789119274860
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":61.8,\"x\":320,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789119442206
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.2,\"humi\":62.3,\"x\":320,\"y\":64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789119618314
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":62.1,\"x\":320,\"y\":128,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789119785512
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28,\"humi\":61.4,\"x\":-128,\"y\":0,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789119956610
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.5,\"humi\":62.6,\"x\":-384,\"y\":-64,\"z\":-960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120127745
+  },
+  {
+    "content": "{\"lat\":35.558057,\"lon\":135.181501,\"bat\":3,\"rs\":4,\"temp\":28.6,\"humi\":71.8,\"x\":-832,\"y\":256,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120263920
+  },
+  {
+    "content": "{\"lat\":35.558825,\"lon\":135.180716,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":81.2,\"x\":-896,\"y\":448,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120496303
+  },
+  {
+    "content": "{\"lat\":35.558473,\"lon\":135.180355,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":82.4,\"x\":-576,\"y\":192,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120561515
+  },
+  {
+    "content": "{\"lat\":35.558199,\"lon\":135.180033,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":76.7,\"x\":-960,\"y\":-128,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120616539
+  },
+  {
+    "content": "{\"lat\":35.558385,\"lon\":135.179902,\"bat\":3,\"rs\":3,\"temp\":28.8,\"humi\":74.4,\"x\":-960,\"y\":-192,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120676683
+  },
+  {
+    "content": "{\"lat\":35.558369,\"lon\":135.179824,\"bat\":3,\"rs\":4,\"temp\":28.4,\"humi\":76.7,\"x\":-960,\"y\":256,\"z\":-256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120736781
+  },
+  {
+    "content": "{\"lat\":35.558234,\"lon\":135.179206,\"bat\":3,\"rs\":0,\"temp\":28.4,\"humi\":75.4,\"x\":-768,\"y\":-64,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120796883
+  },
+  {
+    "content": "{\"lat\":35.557792,\"lon\":135.179036,\"bat\":3,\"rs\":1,\"temp\":28.4,\"humi\":71.1,\"x\":-960,\"y\":-256,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120861984
+  },
+  {
+    "content": "{\"lat\":35.558346,\"lon\":135.178943,\"bat\":3,\"rs\":4,\"temp\":28.3,\"humi\":76.4,\"x\":-896,\"y\":-704,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120916065
+  },
+  {
+    "content": "{\"lat\":35.558535,\"lon\":135.179843,\"bat\":3,\"rs\":0,\"temp\":28.1,\"humi\":74.5,\"x\":-960,\"y\":-192,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789120976213
+  },
+  {
+    "content": "{\"lat\":35.558551,\"lon\":135.179631,\"bat\":3,\"rs\":3,\"temp\":28.5,\"humi\":78.2,\"x\":-960,\"y\":-320,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121036765
+  },
+  {
+    "content": "{\"lat\":35.5585,\"lon\":135.179856,\"bat\":3,\"rs\":4,\"temp\":28.2,\"humi\":84.1,\"x\":-960,\"y\":-256,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121096466
+  },
+  {
+    "content": "{\"lat\":35.558491,\"lon\":135.1799,\"bat\":3,\"rs\":4,\"temp\":28.4,\"humi\":82,\"x\":-896,\"y\":-384,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121161572
+  },
+  {
+    "content": "{\"lat\":35.558477,\"lon\":135.179934,\"bat\":3,\"rs\":4,\"temp\":28.5,\"humi\":84.2,\"x\":-896,\"y\":-384,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121216708
+  },
+  {
+    "content": "{\"lat\":35.558484,\"lon\":135.179927,\"bat\":3,\"rs\":4,\"temp\":28.1,\"humi\":81.4,\"x\":-896,\"y\":0,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121276866
+  },
+  {
+    "content": "{\"lat\":35.558476,\"lon\":135.179946,\"bat\":3,\"rs\":3,\"temp\":28.3,\"humi\":81.1,\"x\":-960,\"y\":-192,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121337030
+  },
+  {
+    "content": "{\"lat\":35.558443,\"lon\":135.17995,\"bat\":3,\"rs\":0,\"temp\":28.5,\"humi\":83.3,\"x\":-704,\"y\":640,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121397037
+  },
+  {
+    "content": "{\"lat\":35.558415,\"lon\":135.179945,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":90.3,\"x\":-896,\"y\":512,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121461092
+  },
+  {
+    "content": "{\"lat\":35.558331,\"lon\":135.179954,\"bat\":3,\"rs\":4,\"temp\":28.6,\"humi\":88.7,\"x\":-1024,\"y\":256,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121516217
+  },
+  {
+    "content": "{\"lat\":35.558026,\"lon\":135.180232,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":89.7,\"x\":-832,\"y\":384,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121576401
+  },
+  {
+    "content": "{\"lat\":35.558712,\"lon\":135.180266,\"bat\":3,\"rs\":4,\"temp\":28.6,\"humi\":94.8,\"x\":-1088,\"y\":704,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121636468
+  },
+  {
+    "content": "{\"lat\":35.558755,\"lon\":135.180303,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":91.8,\"x\":-832,\"y\":384,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121696549
+  },
+  {
+    "content": "{\"lat\":35.558384,\"lon\":135.181341,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":89.3,\"x\":-320,\"y\":384,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121771727
+  },
+  {
+    "content": "{\"lat\":35.558225,\"lon\":135.182117,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":90.2,\"x\":-832,\"y\":448,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121816800
+  },
+  {
+    "content": "{\"lat\":35.557773,\"lon\":135.183104,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":93.3,\"x\":-1216,\"y\":512,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121896960
+  },
+  {
+    "content": "{\"lat\":35.557276,\"lon\":135.183828,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":94.6,\"x\":-512,\"y\":384,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789121941013
+  },
+  {
+    "content": "{\"lat\":35.556775,\"lon\":135.184726,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":95.3,\"x\":-640,\"y\":512,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122001097
+  },
+  {
+    "content": "{\"lat\":35.557551,\"lon\":135.1848,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":97.4,\"x\":-896,\"y\":576,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122066327
+  },
+  {
+    "content": "{\"lat\":35.557882,\"lon\":135.185411,\"bat\":3,\"rs\":4,\"temp\":29.3,\"humi\":99.6,\"x\":-832,\"y\":256,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122116397
+  },
+  {
+    "content": "{\"lat\":35.558201,\"lon\":135.18589,\"bat\":3,\"rs\":3,\"temp\":29.4,\"humi\":100,\"x\":-832,\"y\":704,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122196554
+  },
+  {
+    "content": "{\"lat\":35.558494,\"lon\":135.186223,\"bat\":3,\"rs\":0,\"temp\":29.6,\"humi\":100,\"x\":-1024,\"y\":384,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122236616
+  },
+  {
+    "content": "{\"lat\":35.55813,\"lon\":135.186037,\"bat\":3,\"rs\":2,\"temp\":29.7,\"humi\":100,\"x\":-1024,\"y\":960,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122301738
+  },
+  {
+    "content": "{\"lat\":35.558765,\"lon\":135.186539,\"bat\":3,\"rs\":1,\"temp\":29.3,\"humi\":100,\"x\":-832,\"y\":448,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122388143
+  },
+  {
+    "content": "{\"lat\":35.559093,\"lon\":135.186822,\"bat\":3,\"rs\":4,\"temp\":29.8,\"humi\":100,\"x\":-832,\"y\":384,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122416789
+  },
+  {
+    "content": "{\"lat\":35.559195,\"lon\":135.187101,\"bat\":3,\"rs\":0,\"temp\":30.1,\"humi\":100,\"x\":-1088,\"y\":128,\"z\":960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122476058
+  },
+  {
+    "content": "{\"lat\":35.558914,\"lon\":135.187236,\"bat\":3,\"rs\":4,\"temp\":29.5,\"humi\":100,\"x\":-1152,\"y\":192,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122536225
+  },
+  {
+    "content": "{\"lat\":35.558747,\"lon\":135.18748,\"bat\":3,\"rs\":3,\"temp\":30.1,\"humi\":100,\"x\":-896,\"y\":448,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122596311
+  },
+  {
+    "content": "{\"lat\":35.558721,\"lon\":135.187586,\"bat\":3,\"rs\":2,\"temp\":29.9,\"humi\":100,\"x\":-960,\"y\":192,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122661406
+  },
+  {
+    "content": "{\"lat\":35.558728,\"lon\":135.187625,\"bat\":3,\"rs\":4,\"temp\":29.4,\"humi\":86.2,\"x\":-896,\"y\":-64,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122716569
+  },
+  {
+    "content": "{\"lat\":35.559146,\"lon\":135.187525,\"bat\":3,\"rs\":0,\"temp\":29.7,\"humi\":87,\"x\":-1600,\"y\":128,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122776888
+  },
+  {
+    "content": "{\"lat\":35.559599,\"lon\":135.187467,\"bat\":3,\"rs\":4,\"temp\":29.4,\"humi\":88.7,\"x\":-1024,\"y\":-64,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122836874
+  },
+  {
+    "content": "{\"lat\":35.559669,\"lon\":135.187559,\"bat\":3,\"rs\":4,\"temp\":29.5,\"humi\":87.5,\"x\":-832,\"y\":-320,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122896941
+  },
+  {
+    "content": "{\"lat\":35.559669,\"lon\":135.187538,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":92,\"x\":-1280,\"y\":-640,\"z\":-64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789122962066
+  },
+  {
+    "content": "{\"lat\":35.559691,\"lon\":135.187016,\"bat\":3,\"rs\":4,\"temp\":29.6,\"humi\":94.8,\"x\":-896,\"y\":-256,\"z\":384,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123017662
+  },
+  {
+    "content": "{\"lat\":35.559057,\"lon\":135.187068,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":88.7,\"x\":-960,\"y\":0,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123082399
+  },
+  {
+    "content": "{\"lat\":35.558759,\"lon\":135.187675,\"bat\":3,\"rs\":4,\"temp\":29.4,\"humi\":88.9,\"x\":-896,\"y\":-64,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123137523
+  },
+  {
+    "content": "{\"lat\":35.55878,\"lon\":135.187634,\"bat\":3,\"rs\":4,\"temp\":29.4,\"humi\":90.4,\"x\":-896,\"y\":0,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123197575
+  },
+  {
+    "content": "{\"lat\":35.559131,\"lon\":135.187062,\"bat\":3,\"rs\":4,\"temp\":28.4,\"humi\":87.8,\"x\":-1024,\"y\":-192,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123262784
+  },
+  {
+    "content": "{\"lat\":35.559362,\"lon\":135.186848,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":86.2,\"x\":-704,\"y\":-384,\"z\":576,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123317811
+  },
+  {
+    "content": "{\"lat\":35.559305,\"lon\":135.186807,\"bat\":3,\"rs\":4,\"temp\":29.3,\"humi\":86.3,\"x\":-704,\"y\":-384,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123377968
+  },
+  {
+    "content": "{\"lat\":35.559197,\"lon\":135.186769,\"bat\":3,\"rs\":0,\"temp\":28.9,\"humi\":81.8,\"x\":-640,\"y\":-576,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123438082
+  },
+  {
+    "content": "{\"lat\":35.559239,\"lon\":135.186887,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":91.3,\"x\":-768,\"y\":512,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123498230
+  },
+  {
+    "content": "{\"lat\":35.558888,\"lon\":135.186576,\"bat\":3,\"rs\":0,\"temp\":28.9,\"humi\":85.8,\"x\":-512,\"y\":768,\"z\":640,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123562303
+  },
+  {
+    "content": "{\"lat\":35.558544,\"lon\":135.186229,\"bat\":3,\"rs\":3,\"temp\":28.8,\"humi\":86.8,\"x\":-960,\"y\":448,\"z\":64,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123617344
+  },
+  {
+    "content": "{\"lat\":35.55813,\"lon\":135.185968,\"bat\":3,\"rs\":0,\"temp\":28.8,\"humi\":84.4,\"x\":-512,\"y\":1920,\"z\":2112,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123677514
+  },
+  {
+    "content": "{\"lat\":35.557842,\"lon\":135.185227,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":95,\"x\":-960,\"y\":704,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123737845
+  },
+  {
+    "content": "{\"lat\":35.55742,\"lon\":135.184732,\"bat\":3,\"rs\":4,\"temp\":28,\"humi\":91.2,\"x\":-896,\"y\":576,\"z\":320,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123797743
+  },
+  {
+    "content": "{\"lat\":35.556959,\"lon\":135.184953,\"bat\":3,\"rs\":2,\"temp\":28.9,\"humi\":99.5,\"x\":-704,\"y\":640,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123862850
+  },
+  {
+    "content": "{\"lat\":35.557108,\"lon\":135.184326,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":100,\"x\":-896,\"y\":576,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123917972
+  },
+  {
+    "content": "{\"lat\":35.557301,\"lon\":135.183765,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":100,\"x\":-768,\"y\":704,\"z\":448,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789123978238
+  },
+  {
+    "content": "{\"lat\":35.557632,\"lon\":135.183308,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":100,\"x\":-640,\"y\":384,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124038212
+  },
+  {
+    "content": "{\"lat\":35.55778,\"lon\":135.182911,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":100,\"x\":-896,\"y\":576,\"z\":128,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124098378
+  },
+  {
+    "content": "{\"lat\":35.558043,\"lon\":135.18265,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":100,\"x\":-512,\"y\":768,\"z\":256,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124163505
+  },
+  {
+    "content": "{\"lat\":35.557623,\"lon\":135.182481,\"bat\":3,\"rs\":4,\"temp\":28.8,\"humi\":100,\"x\":-768,\"y\":640,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124223576
+  },
+  {
+    "content": "{\"lat\":35.557862,\"lon\":135.182572,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":100,\"x\":-896,\"y\":448,\"z\":0,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124278685
+  },
+  {
+    "content": "{\"lat\":35.55811,\"lon\":135.18217,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":100,\"x\":-768,\"y\":512,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124338786
+  },
+  {
+    "content": "{\"lat\":35.558808,\"lon\":135.182161,\"bat\":3,\"rs\":3,\"temp\":29.4,\"humi\":100,\"x\":-704,\"y\":576,\"z\":512,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124470706
+  },
+  {
+    "content": "{\"lat\":35.558808,\"lon\":135.182131,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":100,\"x\":-896,\"y\":512,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124494877
+  },
+  {
+    "content": "{\"lat\":35.558794,\"lon\":135.18212,\"bat\":3,\"rs\":4,\"temp\":29.3,\"humi\":100,\"x\":-704,\"y\":384,\"z\":192,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124590223
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.7,\"humi\":81.6,\"x\":-768,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124761575
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.3,\"humi\":69.9,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789124932460
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":70.4,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789125099582
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28,\"humi\":69,\"x\":-704,\"y\":-64,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789125271723
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.6,\"humi\":67.8,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789125438843
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.6,\"humi\":67.4,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789125609982
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":70,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789125777101
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.1,\"humi\":67.6,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789125948296
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":65.5,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789126124449
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.1,\"humi\":65.4,\"x\":-704,\"y\":0,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789126291501
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":61.6,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789126463412
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.9,\"humi\":63.5,\"x\":-704,\"y\":0,\"z\":-704,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789126633818
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29.2,\"humi\":63,\"x\":-576,\"y\":128,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789126804960
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":28.7,\"humi\":63.2,\"x\":-640,\"y\":128,\"z\":-768,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789126981117
+  },
+  {
+    "content": "{\"lat\":null,\"lon\":null,\"bat\":3,\"rs\":4,\"temp\":29,\"humi\":66.2,\"x\":-192,\"y\":-256,\"z\":960,\"type\":0,\"binaryParserEnabled\":true}",
+    "contentType": "application/json",
+    "time": 1789127148212
+  }
+]
